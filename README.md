@@ -30,7 +30,7 @@ Check out my work on [GitHub](https://github.com/RazEini?tab=repositories) or co
 
 ### Smart TaskFlow
 *A smart mobile task manager built with Kotlin, Jetpack Compose, and MVVM. Features: automated priority & category classification, real-time search, date grouping, gesture controls, and a clean Material 3 UI.*  
-[GitHub Repository](https://github.com/RazEini/Smart_taskflow)
+[GitHub Repository](https://github.com/RazEini/Smart_Task_Flow)
 
 ### Tetris Clone
 *A classic Tetris implementation for desktop with smooth animations, ghost blocks, scoring system, difficulty levels, and background music. Built with Python (OOP) + Pygame.*  
