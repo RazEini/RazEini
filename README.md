@@ -39,3 +39,16 @@ Check out my work on [GitHub](https://github.com/RazEini?tab=repositories) or co
 ### Password Manager
 *A secure password manager with an encrypted JSON vault, supporting both CLI and GUI (Tkinter). Features: AES-128-GCM encryption, master password (PBKDF2-HMAC-SHA256), password strength checking, clipboard copy, and import/export via CSV.*  
 [GitHub Repository](https://github.com/RazEini/Password_Manager)
+
+---
+
+## 📊 GitHub Stats
+
+![Raz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to exciting projects and collaborations!  
+Reach out via **[email](mailto:razeini972@gmail.com)** or check out my work on **[GitHub](https://github.com/RazEini)**.
