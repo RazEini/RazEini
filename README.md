@@ -43,25 +43,6 @@ Check out my work on [GitHub](https://github.com/RazEini?tab=repositories) or co
 
 ---
 
-## 📊 GitHub Stats
-
-<table>
-<tr>
-<td>
-
-![Raz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&theme=radical)
-
-</td>
-<td>
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=radical)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to exciting projects and collaborations!  
