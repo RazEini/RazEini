@@ -9,30 +9,25 @@ Passionate about building **scalable, efficient, and user-friendly software**.
 
 ## 💻 Tech Stack
 
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="36" height="36"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="36" height="36"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="36" height="36"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="36" height="36"/></span>
 
 ---
 
 ## 🚀 Featured Projects
 
-### [E-Commerce Shop](https://github.com/RazEini/e_commerce_shop)  
-Android app with **Firebase Realtime Database, Authentication, Smart/Voice Search**, and **role-based user/admin panels**.
+[![E-Commerce Shop](https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=e_commerce_shop&theme=transparent)](https://github.com/RazEini/e_commerce_shop)
 
-### [Smart TaskFlow](https://github.com/RazEini/Smart_Task_Flow)  
-Task manager built with **Kotlin + Jetpack Compose (MVVM)**.  
-Features: automated classification, real-time search, date grouping, and Material 3 UI.
+[![Smart TaskFlow](https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Smart_Task_Flow&theme=transparent)](https://github.com/RazEini/Smart_Task_Flow)
 
-### [Tetris Clone](https://github.com/RazEini/Tetris)  
-Classic Tetris in **Python (OOP + Pygame)** with animations, ghost blocks, scoring, and difficulty scaling.
+[![Tetris Clone](https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Tetris&theme=transparent)](https://github.com/RazEini/Tetris)
 
-### [Password Manager](https://github.com/RazEini/Password_Manager)  
-Secure tool with **AES-128-GCM encryption**, **PBKDF2-HMAC-SHA256**, CLI + GUI (Tkinter), and CSV import/export.
+[![Password Manager](https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Password_Manager&theme=transparent)](https://github.com/RazEini/Password_Manager)
 
 ---
 
