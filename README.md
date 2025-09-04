@@ -1,49 +1,36 @@
 # 👋 Hi, I'm Raz
 
-I'm a **Software Developer** focused on **Android apps, games, and personal projects**.  
-I enjoy building **efficient, user-friendly, and creative solutions** using **Java, Kotlin, C#, and Python**.  
+**Software Developer** with focus on **Android applications, backend systems, and cross-platform solutions**.  
+I enjoy designing and implementing **scalable, efficient, and user-friendly software**.
 
-Check out my work on [GitHub](https://github.com/RazEini?tab=repositories) or contact me at **razeini972@gmail.com** – always open to collaborations and opportunities.
+📫 Contact: **razeini972@gmail.com** | [GitHub](https://github.com/RazEini)
 
 ---
 
 ## 💻 Tech Stack
-
-**Languages & Tools:**
-
-
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Studio" width="40" height="40"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></span>
-
+- **Languages:** Kotlin, Java, Python, C#  
+- **Platforms & Tools:** Android, Git, VS Code, Android Studio  
+- **Architectures & Practices:** MVVM, Clean Architecture, OOP, Test-Driven Development  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-### E-Commerce Shop
-*Android E-Commerce App with Firebase Realtime DB, Authentication, Smart Search, Voice Search, User & Admin Panels.*  
-[GitHub Repository](https://github.com/RazEini/e_commerce_shop)
+### [E-Commerce Shop](https://github.com/RazEini/e_commerce_shop)
+Android app with **Firebase Realtime Database, Authentication, Smart Search, Voice Search, and User/Admin panels**.
 
-### Smart TaskFlow
-*A smart mobile task manager built with Kotlin, Jetpack Compose, and MVVM. Features: automated priority & category classification, real-time search, date grouping, gesture controls, and a clean Material 3 UI.*  
-[GitHub Repository](https://github.com/RazEini/Smart_Task_Flow)
+### [Smart TaskFlow](https://github.com/RazEini/Smart_Task_Flow)
+Task manager built with **Kotlin + Jetpack Compose (MVVM)**.  
+Includes automated task classification, real-time search, date grouping, and Material 3 UI.
 
-### Tetris Clone
-*A classic Tetris implementation for desktop with smooth animations, ghost blocks, scoring system, difficulty levels, and background music. Built with Python (OOP) + Pygame.*  
-[GitHub Repository](https://github.com/RazEini/Tetris)
+### [Tetris Clone](https://github.com/RazEini/Tetris)
+Classic Tetris game in **Python (OOP + Pygame)** with animations, ghost blocks, scoring, and difficulty scaling.
 
-### Password Manager
-*A secure password manager with an encrypted JSON vault, supporting both CLI and GUI (Tkinter). Features: AES-128-GCM encryption, master password (PBKDF2-HMAC-SHA256), password strength checking, clipboard copy, and import/export via CSV.*  
-[GitHub Repository](https://github.com/RazEini/Password_Manager)
+### [Password Manager](https://github.com/RazEini/Password_Manager)
+Secure manager with **AES-128-GCM encryption**, CLI + GUI (Tkinter), password strength checks, and CSV import/export.
 
 ---
 
-## 📫 Let's Connect
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=default&hide_border=true)
 
-I'm always open to exciting projects and collaborations!  
-Reach out via **[email](mailto:razeini972@gmail.com)** or check out my work on **[GitHub](https://github.com/RazEini)**.
+---
