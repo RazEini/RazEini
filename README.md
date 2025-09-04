@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Raz
 
-**Software Developer** specializing in **Android applications and backend systems**.  
-Passionate about building **scalable, efficient, and user-friendly software**.
+**Software Developer** specializing in **Android development, backend systems, and cross-platform applications**.  
+Skilled in designing and implementing **efficient, scalable, and user-friendly solutions** using modern technologies.
 
 📫 Contact: **razeini972@gmail.com** | [GitHub](https://github.com/RazEini)
 
@@ -9,30 +9,35 @@ Passionate about building **scalable, efficient, and user-friendly software**.
 
 ## 💻 Tech Stack
 
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="36" height="36"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="36" height="36"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="36" height="36"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="36" height="36"/></span>
+**Languages & Tools:**  
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></span>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-[![E-Commerce Shop](https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=e_commerce_shop&theme=transparent)](https://github.com/RazEini/e_commerce_shop)
+### [E-Commerce Shop](https://github.com/RazEini/e_commerce_shop)
+Android application with **Firebase Realtime Database, authentication, smart search, voice input, and role-based access (user & admin panels).**
 
-[![Smart TaskFlow](https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Smart_Task_Flow&theme=transparent)](https://github.com/RazEini/Smart_Task_Flow)
+### [Smart TaskFlow](https://github.com/RazEini/Smart_Task_Flow)
+Task management app built with **Kotlin, Jetpack Compose, and MVVM**.  
+Features: automated task classification, real-time search, date grouping, gesture controls, Material 3 UI.
 
-[![Tetris Clone](https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Tetris&theme=transparent)](https://github.com/RazEini/Tetris)
+### [Tetris Clone](https://github.com/RazEini/Tetris)
+Desktop game implemented in **Python (OOP) + Pygame** with animations, ghost blocks, scoring, difficulty scaling, and background music.
 
-[![Password Manager](https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Password_Manager&theme=transparent)](https://github.com/RazEini/Password_Manager)
+### [Password Manager](https://github.com/RazEini/Password_Manager)
+Cross-platform password manager using **AES-128-GCM encryption** with **PBKDF2-HMAC-SHA256** key derivation.  
+Supports CLI & GUI (Tkinter), password strength analysis, clipboard copy, and secure import/export.
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=transparent&hide_border=true)
-
----
-
-💡 Always open to learning, collaborations, and building impactful projects.
+## 📫 Let's Connect
+Open to collaborations, freelance projects, and professional opportunities.  
+Contact me at **[email](mailto:razeini972@gmail.com)** or via **[GitHub](https://github.com/RazEini)**.  
