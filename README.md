@@ -2,7 +2,7 @@
 
 **Software Developer** specializing in **Android, Backend, and Cross-Platform Development**.
 
-💻 [Portfolio Website](https://RazEini.github.io/portfolio) – complete overview of projects, skills, and experience.
+💻 [Portfolio Website](https://RazEini.github.io/) – complete overview of projects, skills, and experience.
 
 ---
 
