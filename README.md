@@ -18,20 +18,6 @@
 
 </div>
 
-<br/>
-
-<div align="center"> 
-  <a href="mailto:razeini972@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://RazEini.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/RazEini" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
 <hr/>
 
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
@@ -39,3 +25,21 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,kotlin,cs,github,vscode,androidstudio" /><br>
 </div>
+
+<hr/>
+
+<div align="center">
+
+💡 *"I build scalable and maintainable apps, focusing on clean code, performance, and great user experiences."*
+
+🚀 *Always exploring new technologies and improving my skills.*
+
+</div>
+
+<br/>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=40&duration=3000&lines=Check+out+my+latest+projects;+Explore+my+portfolio;+Reach+out+if+you+want+to+collaborate!" />
+</div>
+
