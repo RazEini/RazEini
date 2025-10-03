@@ -63,7 +63,7 @@ Mostly, I work on projects that <strong>make an impact</strong> and are <strong>
       <td>TaskFlow – Smart Task Manager</td>
       <td>Jetpack Compose UI, MVVM, rule-based task prioritization, state management</td>
       <td>
-        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" width="70" />
+        <img src="https://skillicons.dev/icons?i=kotlin,firebase,androidstudio" width="140" />
       </td>
       <td>Smart task manager app with automated prioritization, category filtering, dashboard overview, and task CRUD operations</td>
     </tr>
