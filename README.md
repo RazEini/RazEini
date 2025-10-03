@@ -11,8 +11,21 @@ Mostly, I work on projects that <strong>make an impact</strong> and are <strong>
 <hr/>
 
 <h2 align="center">Languages - Frameworks - Tools</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cs,java,kotlin,firebase,androidstudio,vscode,idea,pycharm,git,github" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=kotlin" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=idea" />
+  <img src="https://skillicons.dev/icons?i=pycharm" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </div>
 
 <hr/>
