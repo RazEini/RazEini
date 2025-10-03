@@ -8,12 +8,6 @@ I enjoy turning complex problems into <strong>simple, user-friendly solutions</s
 Mostly, I work on projects that <strong>make an impact</strong> and are <strong>fun to use</strong>.
 </p>
 
-<p align="center">
-🌐 <strong>Portfolio:</strong> <a href="https://RazEini.github.io">RazEini.github.io</a><br>
-💻 <strong>Repositories:</strong> <a href="https://github.com/RazEini?tab=repositories">github.com/RazEini</a><br>
-✉️ <strong>Email:</strong> <a href="mailto:razeini972@gmail.com">razeini972@gmail.com</a>
-</p>
-
 <hr/>
 
 <h2 align="center">Languages - Frameworks - Tools</h2>
@@ -27,9 +21,3 @@ Mostly, I work on projects that <strong>make an impact</strong> and are <strong>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RazEini/RazEini/output/github-contribution-grid-snake.svg" />
 </div>
-
-<hr/>
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=1E90FF&width=500&height=50&duration=4000&pause=1000&lines=Check+my+Portfolio+💼;+Let's+Collaborate+🤝;+Open+for+Exciting+Projects+🚀" />
-</h2>
