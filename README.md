@@ -12,7 +12,7 @@ Mostly, I work on projects that <strong>make an impact</strong> and are <strong>
 
 <h2 align="center">Languages - Frameworks - Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cs,java,kotlin,firebase,androidstudio,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cs,java,kotlin,firebase,androidstudio,vscode,idea,pycharm,git,github" />
 </div>
 
 <hr/>
