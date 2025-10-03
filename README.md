@@ -24,5 +24,4 @@ Mostly, I work on projects that **make an impact** and are **fun to use**.
   <br>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RazEini/RazEini/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
 </div>
