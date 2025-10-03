@@ -10,6 +10,14 @@ Mostly, I work on projects that <strong>make an impact</strong> and are <strong>
 
 <hr/>
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/214375117-d7fc8261-fff2-4b2a-826f-b917ff005e54.gif" width="200">
+
+</div>
+
+<hr/>
+
 <h2 align="center">Languages - Frameworks - Tools</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://skillicons.dev/icons?i=html" />
