@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=1E90FF&width=500&height=50&duration=4000&lines=Check+my+Portfolio;+Let's+Collaborate;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=1E90FF&width=500&height=50&duration=4000&lines=Check+my+Portfolio+💼;+Let's+Collaborate+🤝;+Open+for+Exciting+Projects+🚀;+Feel+Free+to+Connect+📬" />
 </h2>
 
 I'm a **Software Developer** specializing in **Android, Backend, and Cross-Platform Apps**.  
