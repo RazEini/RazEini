@@ -42,7 +42,7 @@ Mostly, I work on projects that <strong>make an impact</strong> and are <strong>
       <td>Tetris Game</td>
       <td>Game loops, animations, event handling, OOP, leaderboard system</td>
       <td>
-        <img src="https://skillicons.dev/icons?i=python,pygame" width="80" />
+        <img src="https://skillicons.dev/icons?i=python,pygame" width="70" />
       </td>
       <td>Classic desktop Tetris game with smooth animations, music, multiple difficulty levels, and interactive leaderboard</td>
     </tr>
@@ -58,7 +58,7 @@ Mostly, I work on projects that <strong>make an impact</strong> and are <strong>
       <td>Python Password Manager</td>
       <td>Encryption (AES-128-GCM), secure storage, CLI & GUI development, master password, password strength validation</td>
       <td>
-        <img src="https://skillicons.dev/icons?i=python,tk,cli" width="180" />
+        <img src="https://skillicons.dev/icons?i=python,tk,cli" width="160" />
       </td>
       <td>Secure password manager with encrypted JSON Vault, CLI & GUI interfaces, master password, password generation, and copy-to-clipboard functionality</td>
     </tr>
