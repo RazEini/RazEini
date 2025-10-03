@@ -35,5 +35,3 @@ Mostly, I work on projects that **make an impact** and are **fun to use**.
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=1E90FF&width=500&height=50&duration=4000&pause=1000&lines=Check+my+Portfolio+💼;+Let's+Collaborate+🤝;+Open+for+Exciting+Projects+🚀;+Feel+Free+to+Connect+📬" />
 </h2>
-
-<br/>
