@@ -13,7 +13,7 @@ Mostly, I work on projects that **make an impact** and are **fun to use**.
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,kotlin,firebase,androidstudio,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,kotlin,firebase,androidstudio,vscode,git,github" />
 </div>
 
 <br/>
