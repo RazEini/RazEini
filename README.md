@@ -1,3 +1,9 @@
+[![Profile Views](https://komarev.com/ghpvc/?username=RazEini&color=blue)](https://github.com/gayanvoice/my-profile-views-counter)
+
+<br/>
+
+<br/>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat:wght@700&size=40&center=true&vCenter=true&width=750&height=70&duration=5200&lines=Hi+There!+👋;I'm+Raz+Eini;Software+Developer;Check+out+my+Latest+Projects" />
 </h1>
