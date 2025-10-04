@@ -54,7 +54,7 @@ Mostly, I work on projects that <strong>make an impact</strong> and are <strong>
       <td>E-Commerce Shop</td>
       <td>User authentication, live cart, admin panel, real-time database, smart & voice search</td>
       <td>
-        <img src="https://skillicons.dev/icons?i=java,firebase,androidstudio" width="150" />
+        <img src="https://skillicons.dev/icons?i=java,firebase,androidstudio" width="350" />
       </td>
       <td>Online Android store app with client & user panels, admin dashboard, live shopping cart, notifications, and full Firebase integration</td>
     </tr>
@@ -62,7 +62,7 @@ Mostly, I work on projects that <strong>make an impact</strong> and are <strong>
       <td>Tetris Game</td>
       <td>Game loops, animations, event handling, OOP, leaderboard system</td>
       <td>
-        <img src="https://skillicons.dev/icons?i=python,pygame" width="70" />
+        <img src="https://skillicons.dev/icons?i=python,pygame" width="100" />
       </td>
       <td>Classic desktop Tetris game with smooth animations, music, multiple difficulty levels, and interactive leaderboard</td>
     </tr>
@@ -70,7 +70,7 @@ Mostly, I work on projects that <strong>make an impact</strong> and are <strong>
       <td>TaskFlow – Smart Task Manager</td>
       <td>Jetpack Compose UI, MVVM, rule-based task prioritization, state management</td>
       <td>
-        <img src="https://skillicons.dev/icons?i=kotlin,firebase,androidstudio" width="140" />
+        <img src="https://skillicons.dev/icons?i=kotlin,firebase,androidstudio" width="160" />
       </td>
       <td>Smart task manager app with automated prioritization, category filtering, dashboard overview, and task CRUD operations</td>
     </tr>
