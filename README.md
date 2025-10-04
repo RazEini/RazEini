@@ -17,22 +17,22 @@ Mostly, I work on projects that <strong>make an impact</strong> and are <strong>
 
 <hr/>
 
-<h2 align="center">Languages - Frameworks - Tools</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=cs" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=kotlin" />
-  <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=idea" />
-  <img src="https://skillicons.dev/icons?i=pycharm" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
+<h2 align="center">Languages, Frameworks & Tools</h2>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </div>
 
 <hr/>
