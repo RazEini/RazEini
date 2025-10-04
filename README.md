@@ -47,6 +47,7 @@ Mostly, I work on projects that <strong>make an impact</strong> and are <strong>
       <th>What I Learned</th>
       <th>Technologies</th>
       <th>Description</th>
+      <th>Link</th>
     </tr>
   </thead>
   <tbody>
@@ -61,6 +62,12 @@ Mostly, I work on projects that <strong>make an impact</strong> and are <strong>
         </div>
       </td>
       <td>Online Android store app with client & user panels, admin dashboard, live shopping cart, notifications, and full Firebase integration</td>
+      <td>
+        <a href="https://github.com/RazEini/e-commerce-shop" target="_blank" style="display: flex; align-items: center; gap: 5px;">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
+          GitHub Repo
+        </a>
+      </td>
     </tr>
     <tr>
       <td>Tetris Game</td>
@@ -72,6 +79,12 @@ Mostly, I work on projects that <strong>make an impact</strong> and are <strong>
         </div>
       </td>
       <td>Classic desktop Tetris game with smooth animations, music, multiple difficulty levels, and interactive leaderboard</td>
+      <td>
+        <a href="https://github.com/RazEini/tetris-game" target="_blank" style="display: flex; align-items: center; gap: 5px;">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
+          GitHub Repo
+        </a>
+      </td>
     </tr>
     <tr>
       <td>TaskFlow – Smart Task Manager</td>
@@ -84,6 +97,12 @@ Mostly, I work on projects that <strong>make an impact</strong> and are <strong>
         </div>
       </td>
       <td>Smart task manager app with automated prioritization, category filtering, dashboard overview, and task CRUD operations</td>
+      <td>
+        <a href="https://github.com/RazEini/taskflow" target="_blank" style="display: flex; align-items: center; gap: 5px;">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
+          GitHub Repo
+        </a>
+      </td>
     </tr>
     <tr>
       <td>Python Password Manager</td>
@@ -96,6 +115,12 @@ Mostly, I work on projects that <strong>make an impact</strong> and are <strong>
         </div>
       </td>
       <td>Secure password manager with encrypted JSON Vault, CLI & GUI interfaces, master password, password generation, and copy-to-clipboard functionality</td>
+      <td>
+        <a href="https://github.com/RazEini/python-password-manager" target="_blank" style="display: flex; align-items: center; gap: 5px;">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
+          GitHub Repo
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
