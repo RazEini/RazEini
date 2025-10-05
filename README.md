@@ -17,6 +17,28 @@ Mostly, I work on projects that <strong>make an impact</strong> and are <strong>
 
 <hr/>
 
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="999">
+  
+🎓 <strong>Software Engineering student</strong> passionate about building impactful and user-friendly apps.<br><br>
+🚀 Always learning new technologies — currently focusing on <strong>mobile app development</strong>.<br><br>
+💬 Ask me about <strong>Android, java, Python, or full-stack app architecture</strong>.<br><br>
+📫 Reach me at: <a href="mailto:razeini972@gmail.com"><strong>razeini972@gmail.com</strong></a>
+🌍 Portfolio: <a href="https://RazEini.github.io" target="_blank"><strong>RazEini.github.io</strong></a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<hr/>
+
 <h2 align="center">Languages, Frameworks & Tools</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
