@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-I'm a <strong>Software Developer</strong> specializing in <strong>Android, Backend, and Cross-Platform Apps</strong>.<br>
-I enjoy turning complex problems into <strong>simple, user-friendly solutions</strong> and experimenting with <strong>new technologies</strong>.<br>
-Mostly, I work on projects that <strong>make an impact</strong> and are <strong>fun to use</strong>.
+I'm a <strong>Software Developer</strong> passionate about building <strong>Android, Backend, and Cross-Platform Apps</strong>.<br>
+I enjoy turning complex ideas into <strong>simple, efficient, and user-friendly solutions</strong>.<br>
+Constantly learning and exploring <strong>new technologies</strong> to improve my craft.
 </p>
 
 <hr/>
