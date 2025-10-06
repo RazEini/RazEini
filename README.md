@@ -166,7 +166,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact&langs_count=8&theme=transparent&bg_color=ffffff00"
     alt="Top Languages" 
-    width="35%"
+    width="45%"
   />
 </p>
 
