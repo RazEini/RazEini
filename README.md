@@ -86,7 +86,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
           <img src="https://skillicons.dev/icons?i=androidstudio" height="30" style="margin:0 5px;" />
         </td>
         <td>Online Android store app with client & user panels, admin dashboard, live shopping cart, notifications, and full Firebase integration</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
           <a href="https://github.com/RazEini/e_commerce_shop" target="_blank">GitHub</a></td>
       </tr>
       <tr>
@@ -97,7 +97,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
           <img src="https://skillicons.dev/icons?i=pygame" height="30" style="margin:0 5px;" />
         </td>
         <td>Classic desktop Tetris game with smooth animations, music, multiple difficulty levels, and interactive leaderboard</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
           <a href="https://github.com/RazEini/Tetris" target="_blank">GitHub</a></td>
       </tr>
       <tr>
@@ -109,7 +109,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
           <img src="https://skillicons.dev/icons?i=androidstudio" height="30" style="margin:0 5px;" />
         </td>
         <td>Smart task manager app with automated prioritization, category filtering, dashboard overview, and task CRUD operations</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
           <a href="https://github.com/RazEini/Smart_Task_Flow" target="_blank">GitHub</a></td>
       </tr>
       <tr>
@@ -121,7 +121,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
           <img src="https://skillicons.dev/icons?i=cli" height="30" style="margin:0 5px;" />
         </td>
         <td>Secure password manager with encrypted JSON Vault, CLI & GUI interfaces, master password, password generation, and copy-to-clipboard functionality</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
           <a href="https://github.com/RazEini/Password_Manager" target="_blank">GitHub</a></td>
       </tr>
     </tbody>
