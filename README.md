@@ -154,12 +154,12 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=swift" 
+    src="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true" 
     height="170"
     alt="RazEini's GitHub stats"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact&langs_count=8&theme=swift"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact&langs_count=8&theme=graywhite&hide_border=true"
     height="270"
     alt="Top Languages"
   />
@@ -167,7 +167,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=RazEini&theme=swift"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=RazEini&theme=graywhite"
     height="180"
     alt="GitHub Streak"
   />
