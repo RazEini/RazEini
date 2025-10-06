@@ -59,8 +59,6 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" />
 </div>
 </td>
 </tr>
