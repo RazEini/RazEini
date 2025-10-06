@@ -11,7 +11,11 @@ They are included for illustration purposes only and are **not covered under the
   [https://github.com/tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)  
 
 - **Contributions Snake** – GitHub contribution grid animation  
-  [https://github.com/Platane/snk](https://github.com/Platane/snk)  
+  [https://github.com/Platane/snk](https://github.com/Platane/snk)
+
+- **Mermaid Flowchart Inspiration** – Inspired by **Connor9994**  
+  [https://github.com/Connor9994](https://github.com/Connor9994/Connor9994)
+  
 
 ---
 
