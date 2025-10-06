@@ -306,27 +306,6 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
 
 <br/>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=RazEini&theme=tokyonight&background=00000000"
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=RazEini&theme=default&background=ffffff&ring=0078ff&fire=0078ff&currStreakLabel=0d1117&sideLabels=333333"
-    />
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=RazEini" 
-      alt="GitHub Streak" 
-      height="150px"
-    />
-  </picture>
-</p>
-
-<br/>
-
 <h2 align="center">🐍 GitHub Contributions</h2>
 <div align="center">
   <picture>
