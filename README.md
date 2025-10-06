@@ -159,7 +159,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
   <img 
     src="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent&bg_color=ffffff00" 
     alt="RazEini's GitHub stats" 
-    width="=45%"
+    width="=40%"
     style="margin-right: 2%"
   />
   <!-- Top Languages -->
