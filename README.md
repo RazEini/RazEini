@@ -50,9 +50,17 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </div>
 
-<hr/>
-
 <br/>
+
+<h2 align="center">📚 Planning To Learn</h2>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" />
+</div>
+
+<hr/>
 
 <h2 align="center">📂 Projects & Learnings</h2>
 <table align="center">
