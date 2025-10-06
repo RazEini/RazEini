@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat:wght@700&size=40&center=true&vCenter=true&width=750&height=70&duration=5200&lines=Hi+There!+👋;I'm+Raz+Eini;Check+out+my+Latest+Projects" />
+  Hi, I’m Raz Eini 👋
 </h1>
 
 <p align="center">
@@ -7,13 +7,6 @@ I'm a <strong>Software Developer</strong> passionate about building <strong>Andr
 I enjoy turning complex ideas into <strong>simple, efficient, and user-friendly solutions</strong>.<br>
 Constantly learning and exploring <strong>new technologies</strong> to improve my craft.
 </p>
-
-<hr/>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500" />
-
-</div>
 
 <hr/>
 
