@@ -32,6 +32,9 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
 
 <hr/>
 
+<table>
+<tr>
+<td width="999">
 <h2 align="center">Languages, Frameworks & Tools</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
@@ -59,6 +62,9 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" />
 </div>
+</td>
+</tr>
+</table>
 
 <hr/>
 
