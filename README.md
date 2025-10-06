@@ -166,7 +166,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact&langs_count=8&theme=transparent&bg_color=ffffff00"
     alt="Top Languages" 
-    width="35%"
+    width="30%"
   />
 </p>
 
@@ -177,7 +177,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=RazEini&theme=transparent&bg_color=ffffff00"
     alt="GitHub Streak" 
-    width="50%"
+    width="30%"
   />
 </p>
 
