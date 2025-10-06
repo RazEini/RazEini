@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" text-style="bold">
   Hi, I’m Raz Eini 👋
 </h1>
 
@@ -41,7 +41,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /><br>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
   <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
