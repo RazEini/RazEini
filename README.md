@@ -156,29 +156,60 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=graywhite&bg_color=ffffff&title_color=0d1117&text_color=333333&icon_color=0078ff" 
-    alt="RazEini's GitHub stats" 
-    style="margin-right: 2%"
-    height="150px"
-  />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=00000000" 
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=graywhite&bg_color=ffffff&title_color=0d1117&text_color=333333&icon_color=0078ff" 
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true" 
+      alt="RazEini's GitHub stats" 
+      height="150px" 
+      style="margin-right: 2%"
+    />
+  </picture>
+
   <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact&langs_count=8&theme=graywhite&bg_color=ffffff&title_color=0d1117&text_color=333333&icon_color=0078ff"
-    alt="Top Languages" 
-    height="150px"
-  />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact&langs_count=8&theme=graywhite&bg_color=ffffff&title_color=0d1117&text_color=333333&icon_color=0078ff"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact" 
+      alt="Top Languages" 
+      height="150px"
+    />
+  </picture>
 </p>
 
 <br/>
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=RazEini&theme=default&background=ffffff&ring=0078ff&fire=0078ff&currStreakLabel=0d1117&sideLabels=333333"
-    alt="GitHub Streak" 
-    height="150px"
-  />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=RazEini&theme=tokyonight&background=00000000"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=RazEini&theme=default&background=ffffff&ring=0078ff&fire=0078ff&currStreakLabel=0d1117&sideLabels=333333"
+    />
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=RazEini" 
+      alt="GitHub Streak" 
+      height="150px"
+    />
+  </picture>
 </p>
 
 <br/>
