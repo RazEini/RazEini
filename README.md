@@ -21,7 +21,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
 🎓 <strong>Software Engineering student</strong> passionate about building impactful and user-friendly apps.<br><br>
 🚀 Always learning new technologies — currently focusing on <strong>mobile app development</strong>.<br><br>
 💬 Ask me about <strong>Android, java, Python, or full-stack app architecture</strong>.<br><br>
-📫 Reach me at: <a href="mailto:razeini972@gmail.com"><strong>razeini972@gmail.com</strong></a>
+📫 Reach me at: <a href="mailto:razeini972@gmail.com"><strong>razeini972@gmail.com</strong></a><br><br>
 🌍 Portfolio: <a href="https://RazEini.github.io" target="_blank"><strong>RazEini.github.io</strong></a>
 
 </td>
