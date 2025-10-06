@@ -86,7 +86,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
       <tr>
         <td>E-Commerce Shop</td>
         <td>User authentication, live cart, admin panel, real-time database, smart & voice search</td>
-        <td>
+        <td align="center">
           <img src="https://skillicons.dev/icons?i=java" height="40" style="margin:0 5px;" />
           <img src="https://skillicons.dev/icons?i=firebase" height="40" style="margin:0 5px;" />
           <img src="https://skillicons.dev/icons?i=androidstudio" height="40" style="margin:0 5px;" />
@@ -98,7 +98,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
       <tr>
         <td>Tetris Game</td>
         <td>Game loops, animations, event handling, OOP, leaderboard system</td>
-        <td>
+        <td align="center">
           <img src="https://skillicons.dev/icons?i=python" height="40" style="margin:0 5px;" />
         </td>
         <td>Classic desktop Tetris game with smooth animations, music, multiple difficulty levels, and interactive leaderboard</td>
@@ -108,7 +108,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
       <tr>
         <td>TaskFlow – Smart Task Manager</td>
         <td>Jetpack Compose UI, MVVM, rule-based task prioritization, state management</td>
-        <td>
+        <td align="center">
           <img src="https://skillicons.dev/icons?i=kotlin" height="40" style="margin:0 5px;" />
           <img src="https://skillicons.dev/icons?i=firebase" height="40" style="margin:0 5px;" />
           <img src="https://skillicons.dev/icons?i=androidstudio" height="40" style="margin:0 5px;" />
@@ -120,7 +120,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
       <tr>
         <td>Python Password Manager</td>
         <td>Encryption (AES-128-GCM), secure storage, CLI & GUI development, master password, password strength validation</td>
-        <td>
+        <td align="center">
           <img src="https://skillicons.dev/icons?i=python" height="40" style="margin:0 5px;" />
         </td>
         <td>Secure password manager with encrypted JSON Vault, CLI & GUI interfaces, master password, password generation, and copy-to-clipboard functionality</td>
