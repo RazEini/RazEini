@@ -304,6 +304,43 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
 
 <br/>
 
+<table>
+<tr>
+<td align="center" width="999">
+<h2 align="center">💡 Why Hire Me?</h2>
+
+```mermaid
+flowchart LR
+    direction LR
+    subgraph 1[" "]
+        direction TB
+        top1[Find Raz's Profile] --> bottom1[Hire Raz 🤝]
+    end
+    subgraph 2[" "]
+        direction TB
+        top2[Google Endlessly 🔎] --> bottom2[Waste Time ⌛]
+    end
+
+    %% Link to subgraph1
+    3[Discover Problem 🐛] --> 1
+
+    %% Link within subgraph2
+    3[Discover Problem 🐛] --> 2
+
+    1 --> outside1["Profit" 📈]
+    2 --> outside2["Cry" 😢]
+
+    click top1 "https://github.com/RazEini" "GitHub Profile"
+
+    style 1 stroke:#072ff7,stroke-width:5px
+    style 2 stroke:#f70707,stroke-width:5px
+```
+</td>
+</tr>
+</table>
+
+<br/>
+
 <h2 align="center">🐍 GitHub Contributions</h2>
 <div align="center">
   <picture>
