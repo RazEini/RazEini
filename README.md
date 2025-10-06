@@ -17,8 +17,8 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
 <table>
 <tr>
 <td align="center" width="999">
-  
-🎓 <strong>Software Engineering student</strong> passionate about building impactful and user-friendly apps.<br><br>
+
+🎓 Currently part of the <strong>Academic Reserve Program (Atuda)</strong> in Software Engineering.<br><br>
 🚀 Always learning new technologies — currently focusing on <strong>mobile app development</strong>.<br><br>
 💬 Ask me about <strong>Android, java, Python, or full-stack app architecture</strong>.<br><br>
 📫 Reach me at: <a href="mailto:razeini972@gmail.com"><strong>razeini972@gmail.com</strong></a><br><br>
