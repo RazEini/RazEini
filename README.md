@@ -216,5 +216,12 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
 
 <h2 align="center">🐍 GitHub Contributions</h2>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RazEini/RazEini/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <!-- Dark Mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RazEini/RazEini/output/github-contribution-grid-snake-dark.svg" />
+    <!-- Light Mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RazEini/RazEini/output/github-contribution-grid-snake.svg" />
+    <!-- Default / fallback -->
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RazEini/RazEini/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
