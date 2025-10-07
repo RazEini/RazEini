@@ -338,7 +338,3 @@ flowchart LR
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <sub>Designed & built by <strong>Raz Eini</strong> — continuously evolving 🚀</sub>
-</p>
