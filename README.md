@@ -339,16 +339,6 @@ flowchart LR
 </tr>
 </table>
 
-<br/>
-
-<h2 align="center">🐍 GitHub Contributions</h2>
-<div align="center">
-  <picture>
-    <!-- Dark Mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RazEini/RazEini/output/github-contribution-grid-snake-dark.svg" />
-    <!-- Light Mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RazEini/RazEini/output/github-contribution-grid-snake.svg" />
-    <!-- Default / fallback -->
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RazEini/RazEini/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+<p align="center">
+  <sub>Designed & built by <strong>Raz Eini</strong> — continuously evolving 🚀</sub>
+</p>
