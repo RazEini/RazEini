@@ -344,8 +344,8 @@ flowchart LR
 <table>
 <tr>
 <td align="center" width="999">
-<div align="center" style="border: 2px solid #072ff7; border-radius: 12px; padding: 20px; max-width: 800px; margin: auto; background: #f0f8ff;">
-  <h2>💬 Why Hire Me (Seriously)</h2>
+<div align="center" style="border: 2px solid #072ff7; border-radius: 16px; padding: 30px 20px; max-width: 800px; margin: auto; background: #f0f8ff;">
+  <h2 style="margin-bottom: 20px;">💬 Why Hire Me (Seriously)</h2>
     <p>✅ <strong>Clean, maintainable code</strong> with real-world scalability</p>
     <p>🎨 <strong>Strong design sense</strong> and focus on user experience</p>
     <p>⚡ <strong>Fast learner</strong> with deep curiosity about new tech</p>
@@ -357,7 +357,8 @@ flowchart LR
 
 <br/>
 
-<p align="center" style="font-size: 12px; color: #666;">
-  &copy; 2025 Raz Eini. All rights reserved.
+<p align="center" style="font-size: 12px; color: #666; margin-bottom: 30px;">
+  &copy; 2025 <strong>Raz Eini</strong>. All rights reserved. ⚡
 </p>
+
 
