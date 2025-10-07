@@ -328,7 +328,7 @@ flowchart LR
     3[Discover Problem 🐛] --> 2
 
     1 --> outside1["Profit" 📈]
-    2 --> outside2["Cry" 😢]
+    2 --> outside2["No solution" 😢]
 
     click top1 "https://github.com/RazEini" "GitHub Profile"
 
