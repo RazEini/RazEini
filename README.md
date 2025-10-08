@@ -67,7 +67,9 @@
 <h2 align="center">📚 Planning To Learn</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" /><br><br>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /><br><br>
 </div>
 </td>
 </tr>
