@@ -36,7 +36,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
 <tr>
 <td width="999">
 <h2 align="center">Languages, Frameworks & Tools</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
@@ -56,7 +56,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
 <br/>
 
 <h2 align="center">📚 Planning To Learn</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" /><br><br>
 </div>
@@ -70,7 +70,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
 
 <!-- Desktop Table -->
 <div align="center">
-  <table align="center" style="border-collapse: collapse; min-width: 800px;">
+  <table align="center">
     <thead>
       <tr>
         <th>Project</th>
@@ -85,44 +85,44 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
         <td>E-Commerce Shop</td>
         <td>User authentication, live cart, admin panel, real-time database, smart & voice search</td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=java" height="40" style="margin:0 5px;" />
-          <img src="https://skillicons.dev/icons?i=firebase" height="40" style="margin:0 5px;" />
-          <img src="https://skillicons.dev/icons?i=androidstudio" height="40" style="margin:0 5px;" />
+          <img src="https://skillicons.dev/icons?i=java" height="40" />
+          <img src="https://skillicons.dev/icons?i=firebase" height="40" />
+          <img src="https://skillicons.dev/icons?i=androidstudio" height="40" />
         </td>
         <td>Online Android store app with client & user panels, admin dashboard, live shopping cart, notifications, and full Firebase integration</td>
-        <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
           <a href="https://github.com/RazEini/e_commerce_shop" target="_blank">GitHub</a></td>
       </tr>
       <tr>
         <td>Tetris Game</td>
         <td>Game loops, animations, event handling, OOP, leaderboard system</td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=python" height="40" style="margin:0 5px;" />
+          <img src="https://skillicons.dev/icons?i=python" height="40" />
         </td>
         <td>Classic desktop Tetris game with smooth animations, music, multiple difficulty levels, and interactive leaderboard</td>
-        <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
           <a href="https://github.com/RazEini/Tetris" target="_blank">GitHub</a></td>
       </tr>
       <tr>
         <td>TaskFlow – Smart Task Manager</td>
         <td>Jetpack Compose UI, MVVM, rule-based task prioritization, state management</td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=kotlin" height="40" style="margin:0 5px;" />
-          <img src="https://skillicons.dev/icons?i=firebase" height="40" style="margin:0 5px;" />
-          <img src="https://skillicons.dev/icons?i=androidstudio" height="40" style="margin:0 5px;" />
+          <img src="https://skillicons.dev/icons?i=kotlin" height="40" />
+          <img src="https://skillicons.dev/icons?i=firebase" height="40" />
+          <img src="https://skillicons.dev/icons?i=androidstudio" height="40" />
         </td>
         <td>Smart task manager app with automated prioritization, category filtering, dashboard overview, and task CRUD operations</td>
-        <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
           <a href="https://github.com/RazEini/Smart_Task_Flow" target="_blank">GitHub</a></td>
       </tr>
       <tr>
         <td>Python Password Manager</td>
         <td>Encryption (AES-128-GCM), secure storage, CLI & GUI development, master password, password strength validation</td>
         <td align="center">
-          <img src="https://skillicons.dev/icons?i=python" height="40" style="margin:0 5px;" />
+          <img src="https://skillicons.dev/icons?i=python" height="40" />
         </td>
         <td>Secure password manager with encrypted JSON Vault, CLI & GUI interfaces, master password, password generation, and copy-to-clipboard functionality</td>
-        <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
+        <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
           <a href="https://github.com/RazEini/Password_Manager" target="_blank">GitHub</a></td>
       </tr>
     </tbody>
@@ -134,30 +134,30 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
 
   <h2 align="center">📂 Projects & Learnings</h2>
 
-  <details style="border:1px solid #ccc; border-radius:8px; padding:10px; margin:10px 0; background:#f9f9f9;">
+  <details>
     <summary><b>E-Commerce Shop</b></summary>
-    <table style="width:100%; border-collapse: collapse; margin-top:10px;">
+    <table>
       <tr>
-        <td style="vertical-align: top; width:30%;"><b>What I Learned:</b></td>
+        <td><b>What I Learned:</b></td>
         <td>User authentication, live cart, admin panel, real-time database, smart & voice search</td>
       </tr>
       <tr>
-        <td style="vertical-align: top;"><b>Technologies:</b></td>
+        <td><b>Technologies:</b></td>
         <td>
-          <img src="https://skillicons.dev/icons?i=java" height="30" style="margin:0 5px;" />
-          <img src="https://skillicons.dev/icons?i=firebase" height="30" style="margin:0 5px;" />
-          <img src="https://skillicons.dev/icons?i=androidstudio" height="30" style="margin:0 5px;" />
+          <img src="https://skillicons.dev/icons?i=java" height="30" />
+          <img src="https://skillicons.dev/icons?i=firebase" height="30" />
+          <img src="https://skillicons.dev/icons?i=androidstudio" height="30" />
         </td>
       </tr>
       <tr>
-        <td style="vertical-align: top;"><b>Description:</b></td>
+        <td><b>Description:</b></td>
         <td>Online Android store app with client & user panels, admin dashboard, live shopping cart, notifications, and full Firebase integration</td>
       </tr>
       <tr>
-        <td style="vertical-align: top;"><b>Link:</b></td>
+        <td><b>Link:</b></td>
         <td>
           <a href="https://github.com/RazEini/e_commerce_shop" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
             GitHub Repo
           </a>
         </td>
@@ -165,29 +165,29 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
     </table>
   </details>
 
-  <details style="border:1px solid #ccc; border-radius:8px; padding:10px; margin:10px 0; background:#f9f9f9;">
+  <details>
     <summary><b>Tetris Game</b></summary>
-    <table style="width:100%; border-collapse: collapse; margin-top:10px;">
+    <table>
       <tr>
-        <td style="vertical-align: top; width:30%;"><b>What I Learned:</b></td>
+        <td><b>What I Learned:</b></td>
         <td>Game loops, animations, event handling, OOP, leaderboard system</td>
       </tr>
       <tr>
-        <td style="vertical-align: top;"><b>Technologies:</b></td>
+        <td><b>Technologies:</b></td>
         <td>
-          <img src="https://skillicons.dev/icons?i=python" height="30" style="margin:0 5px;" />
-          <img src="https://skillicons.dev/icons?i=pygame" height="30" style="margin:0 5px;" />
+          <img src="https://skillicons.dev/icons?i=python" height="30" />
+          <img src="https://skillicons.dev/icons?i=pygame" height="30" />
         </td>
       </tr>
       <tr>
-        <td style="vertical-align: top;"><b>Description:</b></td>
+        <td><b>Description:</b></td>
         <td>Classic desktop Tetris game with smooth animations, music, multiple difficulty levels, and interactive leaderboard</td>
       </tr>
       <tr>
-        <td style="vertical-align: top;"><b>Link:</b></td>
+        <td><b>Link:</b></td>
         <td>
           <a href="https://github.com/RazEini/Tetris" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
             GitHub Repo
           </a>
         </td>
@@ -195,27 +195,27 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
     </table>
   </details>
 
-  <details style="border:1px solid #ccc; border-radius:8px; padding:10px; margin:10px 0; background:#f9f9f9;">
+  <details>
     <summary><b>TaskFlow – Smart Task Manager</b></summary>
-    <table style="width:100%; border-collapse: collapse; margin-top:10px;">
+    <table>
       <tr>
-        <td style="vertical-align: top; width:30%;"><b>What I Learned:</b></td>
+        <td><b>What I Learned:</b></td>
         <td>Jetpack Compose UI, MVVM, rule-based task prioritization, state management</td>
       </tr>
       <tr>
-        <td style="vertical-align: top;"><b>Technologies:</b></td>
+        <td><b>Technologies:</b></td>
         <td>
-          <img src="https://skillicons.dev/icons?i=kotlin" height="30" style="margin:0 5px;" />
-          <img src="https://skillicons.dev/icons?i=firebase" height="30" style="margin:0 5px;" />
-          <img src="https://skillicons.dev/icons?i=androidstudio" height="30" style="margin:0 5px;" />
+          <img src="https://skillicons.dev/icons?i=kotlin" height="30" />
+          <img src="https://skillicons.dev/icons?i=firebase" height="30" />
+          <img src="https://skillicons.dev/icons?i=androidstudio" height="30" />
         </td>
       </tr>
       <tr>
-        <td style="vertical-align: top;"><b>Description:</b></td>
+        <td><b>Description:</b></td>
         <td>Smart task manager app with automated prioritization, category filtering, dashboard overview, and task CRUD operations</td>
       </tr>
       <tr>
-        <td style="vertical-align: top;"><b>Link:</b></td>
+        <td><b>Link:</b></td>
         <td>
           <a href="https://github.com/RazEini/Smart_Task_Flow" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
@@ -226,27 +226,27 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
     </table>
   </details>
 
-  <details style="border:1px solid #ccc; border-radius:8px; padding:10px; margin:10px 0; background:#f9f9f9;">
+  <details>
     <summary><b>Python Password Manager</b></summary>
-    <table style="width:100%; border-collapse: collapse; margin-top:10px;">
+    <table>
       <tr>
-        <td style="vertical-align: top; width:30%;"><b>What I Learned:</b></td>
+        <td><b>What I Learned:</b></td>
         <td>Encryption (AES-128-GCM), secure storage, CLI & GUI development, master password, password strength validation</td>
       </tr>
       <tr>
-        <td style="vertical-align: top;"><b>Technologies:</b></td>
+        <td><b>Technologies:</b></td>
         <td>
-          <img src="https://skillicons.dev/icons?i=python" height="30" style="margin:0 5px;" />
-          <img src="https://skillicons.dev/icons?i=tk" height="30" style="margin:0 5px;" />
-          <img src="https://skillicons.dev/icons?i=cli" height="30" style="margin:0 5px;" />
+          <img src="https://skillicons.dev/icons?i=python" height="30" />
+          <img src="https://skillicons.dev/icons?i=tk" height="30" />
+          <img src="https://skillicons.dev/icons?i=cli" height="30" />
         </td>
       </tr>
       <tr>
-        <td style="vertical-align: top;"><b>Description:</b></td>
+        <td><b>Description:</b></td>
         <td>Secure password manager with encrypted JSON Vault, CLI & GUI interfaces, master password, password generation, and copy-to-clipboard functionality</td>
       </tr>
       <tr>
-        <td style="vertical-align: top;"><b>Link:</b></td>
+        <td"><b>Link:</b></td>
         <td>
           <a href="https://github.com/RazEini/Password_Manager" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
@@ -279,8 +279,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
     <img 
       src="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true" 
       alt="RazEini's GitHub stats" 
-      height="150px" 
-      style="margin-right: 2%"
+      height="150px"
     />
   </picture>
 
@@ -344,12 +343,12 @@ flowchart LR
 <table>
 <tr>
 <td align="center" width="999">
-<div align="center" style="border: 2px solid #072ff7; border-radius: 16px; padding: 30px 20px; max-width: 800px; margin: auto; background: #f0f8ff;">
-  <h2 style="margin-bottom: 20px;">💬 Why Hire Me (Seriously)</h2>
+<div align="center">
+  <h2>💬 Why Hire Me (Seriously)</h2>
     <p>✅ <strong>Clean, maintainable code</strong> with real-world scalability</p>
     <p>🎨 <strong>Strong design sense</strong> and focus on user experience</p>
     <p>⚡ <strong>Fast learner</strong> with deep curiosity about new tech</p>
-    <p>🤝 <strong>Collaborative, detail-oriented</strong>, driven to build impactful products</p><br><br>
+    <p>🤝 <strong>Collaborative, detail-oriented</strong>, driven to build impactful products</p>
 </div>
 </td>
 </tr>
@@ -357,7 +356,9 @@ flowchart LR
 
 <br/>
 
-<p align="center" style="font-size: 12px; color: #666; margin-bottom: 30px;">
+<br/>
+
+<p align="center">
   &copy; 2025 <strong>Raz Eini</strong>. All rights reserved. ⚡
 </p>
 
