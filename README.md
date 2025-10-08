@@ -12,7 +12,7 @@
 </ul>
 
 <h4>
-  <i>**“🧠 Writing code that works — and occasionally keeps me entertained.”**<br><br>
+  <i>*“🧠 Writing code that works — and occasionally keeps me entertained.”*<br><br>
   *🧩 Simplicity is my favorite feature.*</i>
 </h4>
 
