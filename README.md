@@ -4,9 +4,6 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="999">
 <ul>
 <li>I'm a <strong>Software Developer</strong> building <strong>Android, Backend, and Cross-Platform Apps</strong>.<br></li>
 <li>I turn complex ideas into <strong>simple, efficient, user-friendly solutions</strong>.<br></li>
@@ -17,9 +14,6 @@
   <i>🧠 Writing clean code, occasionally adding mysterious bugs for fun.<br><br>
   🧩 Simplicity is my favorite feature.</i>
 </h4>
-</td>
-</tr>
-</table>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
