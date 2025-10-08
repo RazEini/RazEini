@@ -218,7 +218,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
         <td><b>Link:</b></td>
         <td>
           <a href="https://github.com/RazEini/Smart_Task_Flow" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
             GitHub Repo
           </a>
         </td>
@@ -246,10 +246,10 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
         <td>Secure password manager with encrypted JSON Vault, CLI & GUI interfaces, master password, password generation, and copy-to-clipboard functionality</td>
       </tr>
       <tr>
-        <td"><b>Link:</b></td>
+        <td><b>Link:</b></td>
         <td>
           <a href="https://github.com/RazEini/Password_Manager" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" style="vertical-align:middle;" />
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
             GitHub Repo
           </a>
         </td>
