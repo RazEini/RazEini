@@ -6,15 +6,15 @@
 
 <table>
 <tr>
-<td align="center" width="999">
-<p align="center">
+<td width="999">
+<p>
 I'm a <strong>Software Developer</strong> passionate about building <strong>Android, Backend, and Cross-Platform Apps</strong>.<br>
 I enjoy turning complex ideas into <strong>simple, efficient, and user-friendly solutions</strong>.<br>
 Constantly learning and exploring <strong>new technologies</strong> to improve my craft.
 
 </p>
 
-<h4 align="center">
+<h4>
   <i>🧠 Writing clean code, occasionally adding mysterious bugs for fun.<br>
   🧩 Simplicity is my favorite feature.</i>
 </h4>
@@ -355,8 +355,8 @@ flowchart LR
 
 <table>
 <tr>
-<td align="center" width="999">
-<div align="center">
+<td width="999">
+<div>
   <h2>💬 Why Hire Me (Seriously)</h2>
     <p>✅ <strong>Clean, maintainable code</strong> with real-world scalability</p>
     <p>🎨 <strong>Strong design sense</strong> and focus on user experience</p>
