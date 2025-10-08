@@ -5,14 +5,14 @@
 <br/>
 
 <ul>
-<li>I'm a <strong>Software Developer</strong> building <strong>Android, Backend, and Cross-Platform Apps</strong>. I enjoy turning ideas into <strong>apps that are simple, useful, and fun to use</strong>.</li>
-<li>I like solving problems and making things work smoothly. Whether it's fixing bugs, adding features, or improving performance, I aim for <strong>clean and efficient solutions</strong>.</li>
-<li>I'm always learning and trying out <strong>new technologies</strong> to keep my skills fresh and bring better ideas to my projects.</li>
-<li>Outside of coding, I work on side projects, experiment with small ideas, and enjoy collaborating with others to build things that people actually enjoy using.</li>
+<li>I'm a <strong>Software Developer</strong> crafting <strong>Android, Backend, and Cross-Platform Apps</strong>. I enjoy transforming ideas into <strong>apps that are intuitive, practical, and enjoyable</strong>.</li>
+<li>I focus on <strong>solving problems elegantly</strong> and ensuring systems run smoothly, striving for <strong>clean and efficient solutions</strong>.</li>
+<li>I'm constantly exploring <strong>new technologies</strong> to refine my skills and bring fresh perspectives to my work.</li>
+<li>Beyond coding, I pursue side projects, experiment with ideas, and enjoy collaborating to create products that people genuinely value.</li>
 </ul>
 
 <h4>
-  <i>**🧠 Writing clean code, occasionally adding mysterious bugs for fun.**<br><br>
+  <i>**“🧠 Writing code that works — and occasionally keeps me entertained.”**<br><br>
   *🧩 Simplicity is my favorite feature.*</i>
 </h4>
 
