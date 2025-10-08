@@ -68,8 +68,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /><br><br>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /><br><br>
 </div>
 </td>
 </tr>
