@@ -358,8 +358,7 @@ flowchart LR
 
 <br/>
 
-<p align="center">
-  &copy; 2025 <strong>Raz Eini</strong>. All rights reserved. ⚡
-</p>
+<p align="center">────────────────────────────</p>
+<p align="center">&copy; 2025 <strong>Raz Eini</strong>. All rights reserved. ⚡</p>
 
 
