@@ -15,6 +15,8 @@
   🧩 Simplicity is my favorite feature.</i>
 </h4>
 
+<br/>
+
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
