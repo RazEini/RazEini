@@ -2,18 +2,26 @@
   Hi, I’m Raz Eini 👋
 </h1>
 
+<br/>
+
+<table>
+<tr>
+<td align="center" width="999">
 <p align="center">
+  
 I'm a <strong>Software Developer</strong> passionate about building <strong>Android, Backend, and Cross-Platform Apps</strong>.<br>
 I enjoy turning complex ideas into <strong>simple, efficient, and user-friendly solutions</strong>.<br>
 Constantly learning and exploring <strong>new technologies</strong> to improve my craft.
+
 </p>
 
 <h4 align="center">
   <i>🧠 Writing clean code, occasionally adding mysterious bugs for fun.<br>
   🧩 Simplicity is my favorite feature.</i>
 </h4>
-
-<hr/>
+</td>
+</tr>
+</table>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -363,7 +371,6 @@ flowchart LR
 
 <br/>
 
-<hr/>
 <p align="center">&copy; 2025 <strong>Raz Eini</strong>. All rights reserved. ⚡</p>
 
 
