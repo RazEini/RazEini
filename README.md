@@ -5,9 +5,10 @@
 <br/>
 
 <ul>
-<li>I'm a <strong>Software Developer</strong> building <strong>Android, Backend, and Cross-Platform Apps</strong>.<br></li>
-<li>I turn complex ideas into <strong>simple, efficient, user-friendly solutions</strong>.<br></li>
-<li>Always learning and exploring <strong>new technologies</strong>.</li>
+<li>I'm a <strong>Software Developer</strong> building <strong>Android, Backend, and Cross-Platform Apps</strong>. I enjoy turning ideas into <strong>apps that are simple, useful, and fun to use</strong>.</li>
+<li>I like solving problems and making things work smoothly. Whether it's fixing bugs, adding features, or improving performance, I aim for <strong>clean and efficient solutions</strong>.</li>
+<li>I'm always learning and trying out <strong>new technologies</strong> to keep my skills fresh and bring better ideas to my projects.</li>
+<li>Outside of coding, I work on side projects, experiment with small ideas, and enjoy collaborating with others to build things that people actually enjoy using.</li>
 </ul>
 
 <h4>
