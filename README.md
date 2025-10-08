@@ -9,7 +9,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
 </p>
 
 <h4 align="center">
-  <i>🧠 Writing clean code, meaningful commits, and the occasional mysterious bug.<br>
+  <i>🧠 Writing clean code, occasionally adding mysterious bugs for fun.<br>
   🧩 Simplicity is my favorite feature.</i>
 </h4>
 
