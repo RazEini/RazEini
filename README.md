@@ -11,8 +11,8 @@
 </ul>
 
 <h4>
-  <i>🧠 Writing clean code, occasionally adding mysterious bugs for fun.<br><br>
-  🧩 Simplicity is my favorite feature.</i>
+  <i>**🧠 Writing clean code, occasionally adding mysterious bugs for fun.**<br><br>
+  *🧩 Simplicity is my favorite feature.*</i>
 </h4>
 
 <br/>
