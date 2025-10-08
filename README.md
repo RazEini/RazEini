@@ -365,6 +365,20 @@ flowchart LR
 <br/>
 
 <br/>
+  
+<h2>💬 Connect with me</h2>
+
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RazEini)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razeini972@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=website&logoColor=white)](https://RazEini.github.io)
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
 
 <p align="center">&copy; 2025 <strong>Raz Eini</strong>. All rights reserved. ⚡</p>
 
