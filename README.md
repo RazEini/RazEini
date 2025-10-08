@@ -185,7 +185,6 @@
         <td><b>Technologies:</b></td>
         <td>
           <img src="https://skillicons.dev/icons?i=python" height="30" />
-          <img src="https://skillicons.dev/icons?i=pygame" height="30" />
         </td>
       </tr>
       <tr>
@@ -246,8 +245,6 @@
         <td><b>Technologies:</b></td>
         <td>
           <img src="https://skillicons.dev/icons?i=python" height="30" />
-          <img src="https://skillicons.dev/icons?i=tk" height="30" />
-          <img src="https://skillicons.dev/icons?i=cli" height="30" />
         </td>
       </tr>
       <tr>
