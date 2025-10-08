@@ -28,7 +28,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
 
 <table>
 <tr>
-<td align="center" width="999">
+<td width="999">
 <br/>
 
 🎓 Currently part of the <strong>Academic Reserve Program (Atuda)</strong> in Software Engineering.<br><br>
