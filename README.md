@@ -366,7 +366,7 @@ flowchart LR
 
 <br/>
 
-<h2>📬 Get in Touch</h2>
+<h2>📌 Professional Profile & Contact</h2>
 
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RazEini)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razeini972@gmail.com)
