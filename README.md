@@ -8,12 +8,10 @@ I enjoy turning complex ideas into <strong>simple, efficient, and user-friendly 
 Constantly learning and exploring <strong>new technologies</strong> to improve my craft.
 </p>
 
-<p align="center">
+<h4 align="center">
   <i>🧠 Writing clean code, meaningful commits, and the occasional mysterious bug.<br>
   🧩 Simplicity is my favorite feature.</i>
-</p>
-
-<br/>
+</h4>
 
 <hr/>
 
