@@ -11,7 +11,7 @@
 <li>Beyond coding, I pursue side projects, experiment with ideas, and enjoy collaborating to create products that people genuinely value.</li>
 </ul>
 
-<h4>
+<h4 align="center">
   <i>*“🧠 Writing code that works — and occasionally keeps me entertained.”*<br><br>
   *🧩 Simplicity is my favorite feature.*</i>
 </h4>
@@ -68,8 +68,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /><br><br>
 </div>
 </td>
 </tr>
