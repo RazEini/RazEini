@@ -8,7 +8,6 @@
 <tr>
 <td align="center" width="999">
 <p align="center">
-  
 I'm a <strong>Software Developer</strong> passionate about building <strong>Android, Backend, and Cross-Platform Apps</strong>.<br>
 I enjoy turning complex ideas into <strong>simple, efficient, and user-friendly solutions</strong>.<br>
 Constantly learning and exploring <strong>new technologies</strong> to improve my craft.
@@ -30,6 +29,7 @@ Constantly learning and exploring <strong>new technologies</strong> to improve m
 <table>
 <tr>
 <td align="center" width="999">
+<br/>
 
 🎓 Currently part of the <strong>Academic Reserve Program (Atuda)</strong> in Software Engineering.<br><br>
 🚀 Always learning new technologies — currently focusing on <strong>mobile app development</strong>.<br><br>
