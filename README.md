@@ -146,7 +146,7 @@
 <br/>
 
 <details>
-  <summary align="center"><h2>📱 View Projects for Mobile</h2></b></summary>
+  <summary align="center"><h3>📱 View Projects for Mobile</h3></b></summary>
   <br/>
 
   <h2 align="center">📂 Projects & Learnings</h2>
