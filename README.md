@@ -24,7 +24,7 @@
 
 <table>
 <tr>
-<td width="999">
+<td align="center" width="999">
 <br/>
 
 🎓 Currently part of the <strong>Academic Reserve Program (Atuda)</strong> in Software Engineering.<br><br>
