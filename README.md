@@ -29,7 +29,7 @@
 
 🎓 Currently part of the <strong>Academic Reserve Program (Atuda)</strong> in Software Engineering.<br><br>
 🚀 Always learning new technologies — currently focusing on <strong>mobile app development</strong>.<br><br>
-💬 Ask me about <strong>Android, java, Python, or full-stack app architecture</strong>.<br><br>
+💬 Ask me about Android, Java, Python, or full-stack app architecture</strong>.<br><br>
 📫 Reach me at: <a href="mailto:razeini972@gmail.com"><strong>razeini972@gmail.com</strong></a><br><br>
 🌍 Portfolio: <a href="https://RazEini.github.io" target="_blank"><strong>RazEini.github.io</strong></a><br><br>
 
