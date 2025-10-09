@@ -329,61 +329,6 @@
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="999">
-<h2 align="center">💡 Why Hire Me?</h2>
-
-```mermaid
-flowchart LR
-    direction LR
-    subgraph 1[" "]
-        direction TB
-        top1[Find Raz's Profile] --> bottom1[Hire Raz 🤝]
-    end
-    subgraph 2[" "]
-        direction TB
-        top2[Google Endlessly 🔎] --> bottom2[Waste Time ⌛]
-    end
-
-    %% Link to subgraph1
-    3[Discover Problem 🐛] --> 1
-
-    %% Link within subgraph2
-    3[Discover Problem 🐛] --> 2
-
-    1 --> outside1["Profit" 📈]
-    2 --> outside2["No solution" 😢]
-
-    click top1 "https://github.com/RazEini" "GitHub Profile"
-
-    style 1 stroke:#072ff7,stroke-width:5px
-    style 2 stroke:#f70707,stroke-width:5px
-```
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td width="999">
-<div>
-  <h2>💬 Why Hire Me (Seriously)</h2>
-    <p>✅ <strong>Clean, maintainable code</strong> with real-world scalability</p>
-    <p>🎨 <strong>Strong design sense</strong> and focus on user experience</p>
-    <p>⚡ <strong>Fast learner</strong> with deep curiosity about new tech</p>
-    <p>🤝 <strong>Collaborative, detail-oriented</strong>, driven to build impactful products</p>
-</div>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<br/>
-
 <h2>📌 Professional Profile & Contact</h2>
 
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RazEini)
