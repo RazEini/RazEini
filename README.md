@@ -143,6 +143,8 @@
 <details>
   <summary>📱 View Projects for Mobile</summary>
 
+  <br/>
+
   <h2 align="center">📂 Projects & Learnings</h2>
 
   <details>
@@ -176,6 +178,8 @@
     </table>
   </details>
 
+  <br/>
+
   <details>
     <summary><b>Tetris Game</b></summary>
     <table>
@@ -204,6 +208,8 @@
       </tr>
     </table>
   </details>
+
+  <br/>
 
   <details>
     <summary><b>TaskFlow – Smart Task Manager</b></summary>
@@ -235,6 +241,8 @@
       </tr>
     </table>
   </details>
+
+  <br/>
 
   <details>
     <summary><b>Python Password Manager</b></summary>
