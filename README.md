@@ -141,7 +141,7 @@
 <br/>
 
 <details>
-  <summary>📱 View Projects for Mobile</summary>
+  <summary><h4>📱 View Projects for Mobile</h2></summary>
 
   <br/>
 
