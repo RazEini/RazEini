@@ -379,7 +379,7 @@ flowchart LR
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RazEini)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razeini972@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=website&logoColor=white)](https://RazEini.github.io)
-[![Resume](https://img.shields.io/badge/Resume-1E90FF?style=for-the-badge&logo=file-pdf&logoColor=white)](./Raz_Eini_resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-1E90FF?style=for-the-badge&logo=file-pdf&logoColor=white)](./RazEini_resume.pdf)
 
 <br/>
 
