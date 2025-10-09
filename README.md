@@ -153,6 +153,7 @@
 
   <details>
     <summary><b>E-Commerce Shop</b></summary>
+    <p><i>Android app with real-time shopping and admin panel.</i></p>
     <table>
       <tr>
         <td><b>What I Learned:</b></td>
@@ -186,6 +187,7 @@
 
   <details>
     <summary><b>Tetris Game</b></summary>
+    <p><i>Classic desktop game built with Python and Pygame, featuring smooth animations and multiple levels.</i></p>
     <table>
       <tr>
         <td><b>What I Learned:</b></td>
@@ -217,6 +219,7 @@
 
   <details>
     <summary><b>TaskFlow – Smart Task Manager</b></summary>
+    <p><i>Intelligent Android task manager with automated prioritization and a clean Jetpack Compose UI.</i></p>
     <table>
       <tr>
         <td><b>What I Learned:</b></td>
@@ -250,6 +253,7 @@
 
   <details>
     <summary><b>Python Password Manager</b></summary>
+    <p><i>Secure password manager with AES encryption and dual CLI/GUI interfaces.</i></p>
     <table>
       <tr>
         <td><b>What I Learned:</b></td>
