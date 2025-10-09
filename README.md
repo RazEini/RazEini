@@ -305,7 +305,7 @@
     <img 
       src="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true" 
       alt="RazEini's GitHub stats" 
-      height="170px"
+      height="165px"
     />
   </picture>
 
@@ -322,7 +322,7 @@
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact" 
       alt="Top Languages" 
-      height="170px"
+      height="165px"
     />
   </picture>
 </p>
