@@ -75,6 +75,10 @@
 
 <br/>
 
+<hr/>
+
+<details>
+  <summary align="center"><h2>💻 View Projects</h2></b></summary>
 <h2 align="center">📂 Projects & Learnings</h2>
 
 <!-- Desktop Table -->
@@ -137,12 +141,12 @@
     </tbody>
   </table>
 </div>
+</details>
 
 <br/>
 
 <details>
-  <summary><h4>📱 View Projects for Mobile</h2></summary>
-
+  <summary align="center"><h2>📱 View Projects for Mobile</h2></b></summary>
   <br/>
 
   <h2 align="center">📂 Projects & Learnings</h2>
@@ -274,6 +278,8 @@
   </details>
 
 </details>
+
+<hr/>
 
 <br/>
 
