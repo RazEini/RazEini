@@ -339,15 +339,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razeini972@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=website&logoColor=white)](https://RazEini.github.io)
 [![Resume](https://img.shields.io/badge/Download_Resume-1E90FF?style=for-the-badge&logo=file-pdf&logoColor=white)](https://github.com/RazEini/RazEini/raw/main/RazEini_resume.pdf)
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<p align="center">&copy; 2025 <strong>Raz Eini</strong>. All rights reserved. ⚡</p>
-
-
