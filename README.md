@@ -325,6 +325,10 @@
 
 <br/>
 
+<p align="center"><i>Thanks for visiting my profile! Feel free to connect or check out my projects 👇</i></p>
+
+<br/>
+
 <h2>📌 Professional Profile & Contact</h2>
 
 <br/>
