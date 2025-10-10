@@ -79,6 +79,57 @@
 
 <hr/>
 
+<br/>
+
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+  <a href="https://github.com/RazEini/Smart_Task_Flow">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Smart_Task_Flow&theme=tokyonight" />
+      <source media="(prefers-color-scheme: light)" 
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Smart_Task_Flow&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Smart_Task_Flow" 
+           alt="Smart Task Flow" style="border:0; vertical-align:middle;" />
+    </picture>
+  </a>
+
+  <a href="https://github.com/RazEini/e_commerce_shop">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=e_commerce_shop&theme=tokyonight" />
+      <source media="(prefers-color-scheme: light)" 
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=e_commerce_shop&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=e_commerce_shop" 
+           alt="E-Commerce Shop" style="border:0; vertical-align:middle;" />
+    </picture>
+  </a>
+
+  <a href="https://github.com/RazEini/Tetris">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Tetris&theme=tokyonight" />
+      <source media="(prefers-color-scheme: light)" 
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Tetris&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Tetris" 
+           alt="Tetris" style="border:0; vertical-align:middle;" />
+    </picture>
+  </a>
+
+  <a href="https://github.com/RazEini/Password_Manager">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Password_Manager&theme=tokyonight" />
+      <source media="(prefers-color-scheme: light)" 
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Password_Manager&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Password_Manager" 
+           alt="Password Manager" style="border:0; vertical-align:middle;" />
+    </picture>
+  </a>
+</p>
+
+<br/>
+
 <details>
   <summary align="center"><h2>💻 View Projects</h2></b></summary>
 <h2 align="center">📂 Projects & Learnings</h2>
@@ -325,7 +376,7 @@
 
 <br/>
 
-<p><i><h4 align="center">Thanks for visiting my profile! Feel free to connect or check out my projects 👇</h4></i></p>
+<p><i><h4 align="center">Thanks for visiting my profile! I'm always open to interesting collaborations or innovative project ideas — feel free to reach out! 👇</h4></i></p>
 
 <br/>
 
