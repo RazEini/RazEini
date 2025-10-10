@@ -325,7 +325,7 @@
 
 <br/>
 
-<p align="center"><i>Thanks for visiting my profile! Feel free to connect or check out my projects 👇</i></p>
+<p><i><h4 align="center">Thanks for visiting my profile! Feel free to connect or check out my projects 👇</h4></i></p>
 
 <br/>
 
