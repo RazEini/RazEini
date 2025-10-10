@@ -82,6 +82,14 @@
 <br/>
 
 <h2 align="center">🚀 Featured Projects</h2>
+<table>
+<tr>
+<td align="center" width="999">
+
+<br/>
+
+<br/>
+
 <p align="center">
   <a href="https://github.com/RazEini/Smart_Task_Flow">
     <picture>
@@ -127,6 +135,14 @@
     </picture>
   </a>
 </p>
+
+<br/>
+
+<br/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
