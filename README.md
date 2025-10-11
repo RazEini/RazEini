@@ -245,6 +245,18 @@
           <a href="https://github.com/RazEini/smart_chat_bot" target="_blank">GitHub</a>
         </td>
       </tr>
+      <tr>
+        <td>Flappy Bird App</td>
+        <td>Tap to make the bird jump, dynamic obstacles, score tracking, multiple lives, simple physics with gravity, animated sprite</td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=kotlin" height="40" />
+          <img src="https://skillicons.dev/icons?i=androidstudio" height="40" />  </td>
+        <td>Mobile game – a Jetpack Compose implementation of the classic Flappy Bird game with start screen, gameplay, game over screen, and high score system</td>
+        <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
+          <a href="https://github.com/RazEini/Flappy_Bird_App" target="_blank">GitHub</a>
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
