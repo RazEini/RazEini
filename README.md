@@ -134,6 +134,17 @@
            alt="Password Manager" style="border:0; vertical-align:middle;" />
     </picture>
   </a>
+  
+  <a href="https://github.com/RazEini/smart_chat_bot">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=smart_chat_bot&theme=tokyonight" />
+      <source media="(prefers-color-scheme: light)" 
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=smart_chat_bot&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=smart_chat_bot" 
+           alt="smart chat bot" style="border:0; vertical-align:middle;" />
+    </picture>
+  </a>
 </p>
 
 <br/>
