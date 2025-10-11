@@ -13,6 +13,8 @@
 <li>Beyond coding, I pursue side projects, experiment with ideas, and enjoy collaborating to create products that people genuinely value.</li>
 </ul>
 
+<br/>
+
 <h4 align="center">
   <i>*“🧠 Writing code that works — and occasionally keeps me entertained.”*<br><br>
   *🧩 Simplicity is my favorite feature.*</i>
