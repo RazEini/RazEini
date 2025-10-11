@@ -218,6 +218,22 @@
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
           <a href="https://github.com/RazEini/Password_Manager" target="_blank">GitHub</a></td>
       </tr>
+      <tr>
+        <td>SmartChat — Secure Hebrew Chatbot</td>
+        <td>Secure API integration, Flask backend, HTML/JS frontend, managing multiple chat sessions, saving chat history</td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=python" height="40" />
+          <img src="https://skillicons.dev/icons?i=flask" height="40" />
+          <img src="https://skillicons.dev/icons?i=html" height="40" />
+          <img src="https://skillicons.dev/icons?i=css" height="40" />
+          <img src="https://skillicons.dev/icons?i=js" height="40" />
+        </td>
+        <td>Hebrew chatbot with secure OpenAI integration, local chat history saving, interactive frontend, and responsive UI</td>
+        <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
+          <a href="https://github.com/RazEini/smart_chat_bot" target="_blank">GitHub</a>
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -353,6 +369,42 @@
         <td><b>Link:</b></td>
         <td>
           <a href="https://github.com/RazEini/Password_Manager" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
+            GitHub Repo
+          </a>
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <br/>
+  
+  <details>
+    <summary><b>SmartChat — Secure Hebrew Chatbot</b></summary>
+    <p><i>Hebrew chatbot with Flask backend, interactive HTML/JS frontend, and secure OpenAI API integration.</i></p>
+    <table>
+      <tr>
+        <td><b>What I Learned:</b></td>
+        <td>Secure API integration, managing multiple chat sessions, local chat history saving, responsive UI</td>
+      </tr>
+      <tr>
+        <td><b>Technologies:</b></td>
+        <td>
+          <img src="https://skillicons.dev/icons?i=python" height="30" />
+          <img src="https://skillicons.dev/icons?i=flask" height="30" />
+          <img src="https://skillicons.dev/icons?i=html" height="30" />
+          <img src="https://skillicons.dev/icons?i=css" height="30" />
+          <img src="https://skillicons.dev/icons?i=js" height="30" />
+        </td>
+      </tr>
+      <tr>
+        <td><b>Description:</b></td>
+        <td>Hebrew chatbot with secure OpenAI integration, local chat history saving, interactive frontend, and responsive UI</td>
+      </tr>
+      <tr>
+        <td><b>Link:</b></td>
+        <td>
+          <a href="https://github.com/RazEini/smart_chat_bot" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
             GitHub Repo
           </a>
