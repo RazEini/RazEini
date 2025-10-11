@@ -145,17 +145,6 @@
            alt="smart chat bot" style="border:0; vertical-align:middle;" />
     </picture>
   </a>
-
-  <a href="https://github.com/RazEini/flappy-bird">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=flappy-bird&theme=tokyonight" />
-      <source media="(prefers-color-scheme: light)" 
-              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=flappy-bird&theme=default" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=flappy-bird" 
-           alt="flappy bird" style="border:0; vertical-align:middle;" />
-    </picture>
-  </a>
 </p>
 
 <br/>
