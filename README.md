@@ -436,6 +436,39 @@
     </table>
   </details>
 
+  <br/>
+
+  <details>
+  <summary><b>Flappy Bird App</b></summary>
+  <p><i>Mobile game – Jetpack Compose implementation of the classic Flappy Bird with start screen, gameplay, game over screen, and high score system.</i></p>
+  <table>
+    <tr>
+      <td><b>What I Learned:</b></td>
+      <td>Tap to make the bird jump, dynamic obstacles with random heights, score tracking & high score system, multiple lives, simple physics with gravity, animated bird sprite</td>
+    </tr>
+    <tr>
+      <td><b>Technologies:</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=kotlin" height="30" />
+        <img src="https://skillicons.dev/icons?i=androidstudio" height="30" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Description:</b></td>
+      <td>Classic Flappy Bird mobile game built with Jetpack Compose, featuring dynamic pipes, start/game over screens, score tracking, multiple lives, and smooth animations</td>
+    </tr>
+    <tr>
+      <td><b>Link:</b></td>
+      <td>
+        <a href="https://github.com/RazEini/Flappy_Bird_App" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
+          GitHub Repo
+        </a>
+      </td>
+    </tr>
+  </table>
+</details>
+
 </details>
 
 <hr/>
