@@ -254,7 +254,7 @@
         <td>Mobile game – a Jetpack Compose implementation of the classic Flappy Bird game with start screen, gameplay, game over screen, and high score system</td>
         <td align="center">
           <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
-          <a href="https://github.com/RazEini/Flappy_Bird_App" target="_blank">GitHub</a>
+          <a href="https://github.com/RazEini/Flappy-Bird" target="_blank">GitHub</a>
         </td>
       </tr>
     </tbody>
@@ -460,7 +460,7 @@
     <tr>
       <td><b>Link:</b></td>
       <td>
-        <a href="https://github.com/RazEini/Flappy_Bird_App" target="_blank">
+        <a href="https://github.com/RazEini/Flappy-Bird" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
           GitHub Repo
         </a>
