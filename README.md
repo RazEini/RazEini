@@ -56,7 +56,7 @@
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/800px-Android_Studio_Logo_%282023%29.svg.png" alt="android studio" height="50" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
   <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
   <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" />
@@ -191,7 +191,7 @@
         <td align="center">
           <img src="https://skillicons.dev/icons?i=java" height="40" />
           <img src="https://skillicons.dev/icons?i=firebase" height="40" />
-          <img src="https://skillicons.dev/icons?i=androidstudio" height="40" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/800px-Android_Studio_Logo_%282023%29.svg.png" alt="android studio" height="40" />
         </td>
         <td>Online Android store app with client & user panels, admin dashboard, live shopping cart, notifications, and full Firebase integration</td>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
@@ -213,7 +213,7 @@
         <td align="center">
           <img src="https://skillicons.dev/icons?i=kotlin" height="40" />
           <img src="https://skillicons.dev/icons?i=firebase" height="40" />
-          <img src="https://skillicons.dev/icons?i=androidstudio" height="40" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/800px-Android_Studio_Logo_%282023%29.svg.png" alt="android studio" height="40" />
         </td>
         <td>Smart task manager app with automated prioritization, category filtering, dashboard overview, and task CRUD operations</td>
         <td align="center"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
@@ -250,7 +250,8 @@
         <td>Tap to make the bird jump, dynamic obstacles, score tracking, multiple lives, simple physics with gravity, animated sprite</td>
         <td align="center">
           <img src="https://skillicons.dev/icons?i=kotlin" height="40" />
-          <img src="https://skillicons.dev/icons?i=androidstudio" height="40" />  </td>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/800px-Android_Studio_Logo_%282023%29.svg.png" alt="android studio" height="40" />
+        </td>
         <td>Mobile game – a Jetpack Compose implementation of the classic Flappy Bird game with start screen, gameplay, game over screen, and high score system</td>
         <td align="center">
           <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="20" />
@@ -283,7 +284,7 @@
         <td>
           <img src="https://skillicons.dev/icons?i=java" height="30" />
           <img src="https://skillicons.dev/icons?i=firebase" height="30" />
-          <img src="https://skillicons.dev/icons?i=androidstudio" height="30" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/800px-Android_Studio_Logo_%282023%29.svg.png" alt="android studio" height="30" />
         </td>
       </tr>
       <tr>
@@ -349,7 +350,7 @@
         <td>
           <img src="https://skillicons.dev/icons?i=kotlin" height="30" />
           <img src="https://skillicons.dev/icons?i=firebase" height="30" />
-          <img src="https://skillicons.dev/icons?i=androidstudio" height="30" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/800px-Android_Studio_Logo_%282023%29.svg.png" alt="android studio" height="30" />
         </td>
       </tr>
       <tr>
@@ -450,7 +451,7 @@
       <td><b>Technologies:</b></td>
       <td>
         <img src="https://skillicons.dev/icons?i=kotlin" height="30" />
-        <img src="https://skillicons.dev/icons?i=androidstudio" height="30" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/800px-Android_Studio_Logo_%282023%29.svg.png" alt="android studio" height="30" />
       </td>
     </tr>
     <tr>
