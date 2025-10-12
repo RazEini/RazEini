@@ -82,6 +82,14 @@
 <br/>
 
 <h2 align="center">🚀 Featured Projects</h2>
+
+<h4 align="center">
+  Here are some of my key projects that showcase my skills in Android, Python, and full-stack development.
+  Each project highlights the technologies I use and the problems I solve through clean and practical solutions.
+</h4>
+
+<br/>
+
 <table>
 <tr>
 <td align="center" width="999">
@@ -165,6 +173,13 @@
 </td>
 </tr>
 </table>
+
+<br/>
+
+<h4 align="center">
+  Below is a detailed overview of my projects, what I learned from them, and the technologies I used.
+  You can explore each project further by checking out the links provided.
+</h4>
 
 <br/>
 
