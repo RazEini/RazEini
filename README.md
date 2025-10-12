@@ -94,10 +94,10 @@
   <a href="https://github.com/RazEini/Smart_Task_Flow">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Smart_Task_Flow&theme=tokyonight" />
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Smart_Task_Flow&theme=tokyonight&cache_seconds=0" />
       <source media="(prefers-color-scheme: light)" 
-              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Smart_Task_Flow&theme=default" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Smart_Task_Flow" 
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Smart_Task_Flow&theme=default&cache_seconds=0" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Smart_Task_Flow&cache_seconds=0" 
            alt="Smart Task Flow" style="border:0; vertical-align:middle;" />
     </picture>
   </a>
@@ -105,10 +105,10 @@
   <a href="https://github.com/RazEini/e_commerce_shop">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=e_commerce_shop&theme=tokyonight" />
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=e_commerce_shop&theme=tokyonight&cache_seconds=0" />
       <source media="(prefers-color-scheme: light)" 
-              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=e_commerce_shop&theme=default" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=e_commerce_shop" 
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=e_commerce_shop&theme=default&cache_seconds=0" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=e_commerce_shop&cache_seconds=0" 
            alt="E-Commerce Shop" style="border:0; vertical-align:middle;" />
     </picture>
   </a>
@@ -116,10 +116,10 @@
   <a href="https://github.com/RazEini/Tetris">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Tetris&theme=tokyonight" />
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Tetris&theme=tokyonight&cache_seconds=0" />
       <source media="(prefers-color-scheme: light)" 
-              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Tetris&theme=default" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Tetris" 
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Tetris&theme=default&cache_seconds=0" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Tetris&cache_seconds=0" 
            alt="Tetris" style="border:0; vertical-align:middle;" />
     </picture>
   </a>
@@ -127,10 +127,10 @@
   <a href="https://github.com/RazEini/Password_Manager">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Password_Manager&theme=tokyonight" />
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Password_Manager&theme=tokyonight&cache_seconds=0" />
       <source media="(prefers-color-scheme: light)" 
-              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Password_Manager&theme=default" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Password_Manager" 
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Password_Manager&theme=default&cache_seconds=0" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=Password_Manager&cache_seconds=0" 
            alt="Password Manager" style="border:0; vertical-align:middle;" />
     </picture>
   </a>
@@ -138,10 +138,10 @@
   <a href="https://github.com/RazEini/smart_chat_bot">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=smart_chat_bot&theme=tokyonight" />
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=smart_chat_bot&theme=tokyonight&cache_seconds=0" />
       <source media="(prefers-color-scheme: light)" 
-              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=smart_chat_bot&theme=default" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=smart_chat_bot" 
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=smart_chat_bot&theme=default&cache_seconds=0" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=smart_chat_bot&cache_seconds=0" 
            alt="smart chat bot" style="border:0; vertical-align:middle;" />
     </picture>
   </a>
@@ -149,10 +149,10 @@
   <a href="https://github.com/RazEini/flappy-bird">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=flappy-bird&theme=tokyonight" />
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=flappy-bird&theme=tokyonight&cache_seconds=0" />
       <source media="(prefers-color-scheme: light)" 
-              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=flappy-bird&theme=default" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=flappy-bird" 
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=flappy-bird&theme=default&cache_seconds=0" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazEini&repo=flappy-bird&cache_seconds=0" 
            alt="flappy bird" style="border:0; vertical-align:middle;" />
     </picture>
   </a>
