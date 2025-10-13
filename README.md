@@ -532,24 +532,6 @@
     />
   </picture>
 
-  <!-- Streak Stats -->
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://streak-stats.demolab.com?user=RazEini&theme=tokyonight&background=00000000" 
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://streak-stats.demolab.com?user=RazEini&theme=default&background=ffffff" 
-    />
-    <img 
-      src="https://streak-stats.demolab.com?user=RazEini" 
-      alt="GitHub Streak" 
-      height="165px" 
-      style="border:0; vertical-align:middle; margin: 10px;" 
-    />
-  </picture>
-
 </div>
 
 <br/>
