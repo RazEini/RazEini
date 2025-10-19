@@ -500,14 +500,14 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=00000000" 
+      srcset="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=00000000&cache_seconds=0" 
     />
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=default&bg_color=ffffff" 
+      srcset="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=default&bg_color=ffffff&cache_seconds=0" 
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight" 
+      src="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=0" 
       alt="RazEini's GitHub Stats" 
       height="165px" 
       style="border:0; vertical-align:middle; margin: 10px;" 
@@ -518,14 +518,14 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&cache_seconds=0" 
     />
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact&langs_count=8&theme=default&bg_color=ffffff" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact&langs_count=8&theme=default&bg_color=ffffff&cache_seconds=0" 
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact" 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact&cache_seconds=0" 
       alt="Top Languages" 
       height="165px" 
       style="border:0; vertical-align:middle; margin: 10px;" 
