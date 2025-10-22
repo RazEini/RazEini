@@ -536,6 +536,8 @@
 
 <br/>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <br/>
 
 <p><i><h4 align="center">Thanks for visiting my profile! I'm always open to interesting collaborations or innovative project ideas — feel free to reach out! 👇</h4></i></p>
