@@ -2,7 +2,7 @@
   Hi, I’m Raz Eini 👋
 </h1>
 
-<p align="center">Turning ideas into experiences through clean, modern software.</p>
+<h3 align="center">Turning ideas into experiences through clean, modern software.</h3>
 
 <br/>
 
