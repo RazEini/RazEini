@@ -10,8 +10,8 @@ They are included for illustration purposes only and are **not covered under the
 - **Skill Icons** – Icons for programming languages and tools  
   [https://github.com/tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)  
 
-- **Mermaid Flowchart Inspiration** – Inspired by **Connor9994**  
-  [https://github.com/Connor9994](https://github.com/Connor9994/Connor9994)
+- **3D GitHub Profile Contributions Inspiration** – Inspired by **yoshi389111**  
+  [https://github.com/yoshi389111/github-profile-3d-contrib?tab=readme-ov-file](https://github.com/yoshi389111/github-profile-3d-contrib?tab=readme-ov-file)
   
 
 ---
