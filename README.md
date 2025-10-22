@@ -533,6 +533,10 @@
 
 <br/>
 
+<hr/>
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
   <img src="./profile-3d-contrib/profile-green.svg" alt="Profile badge" />
@@ -542,6 +546,10 @@
 <br/>
 
 <p><i><h4 align="center">Thanks for visiting my profile! I'm always open to interesting collaborations or innovative project ideas — feel free to reach out! 👇</h4></i></p>
+
+<br/>
+
+<hr/>
 
 <br/>
 
