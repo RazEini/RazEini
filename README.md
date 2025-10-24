@@ -488,6 +488,8 @@
 
 <br/>
 
+<br/>
+
 <h2>📌 Professional Profile & Contact</h2>
 
 <br/>
