@@ -484,72 +484,7 @@
 
 </details>
 
-<hr/>
-
 <br/>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<br/>
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=00000000&cache_seconds=0" 
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=default&bg_color=ffffff&cache_seconds=0" 
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=0" 
-      alt="RazEini's GitHub Stats" 
-      height="165px" 
-      style="border:0; vertical-align:middle; margin: 10px;" 
-    />
-  </picture>
-
-  <!-- Top Languages -->
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&cache_seconds=0" 
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact&langs_count=8&theme=default&bg_color=ffffff&cache_seconds=0" 
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact&cache_seconds=0" 
-      alt="Top Languages" 
-      height="165px" 
-      style="border:0; vertical-align:middle; margin: 10px;" 
-    />
-  </picture>
-
-</div>
-
-<br/>
-
-<hr/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-  <img src="./profile-3d-contrib/profile-green.svg" alt="Profile badge" />
-</picture>
-
-
-<br/>
-
-<p><i><h4 align="center">Thanks for visiting my profile! I'm always open to interesting collaborations or innovative project ideas — feel free to reach out! 👇</h4></i></p>
-
-<br/>
-
-<hr/>
 
 <br/>
 
