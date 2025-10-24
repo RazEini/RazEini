@@ -7,9 +7,9 @@
 <br/>
 
 <ul>
-<li>I'm a <strong>Software Developer</strong> crafting <strong>Android, Backend, and Cross-Platform Apps</strong>. I enjoy transforming ideas into <strong>apps that are intuitive, practical, and enjoyable</strong>.</li>
-<li>I focus on <strong>solving problems elegantly</strong> and ensuring systems run smoothly, striving for <strong>clean and efficient solutions</strong>.</li>
-<li>I'm constantly exploring <strong>new technologies</strong> to refine my skills and bring fresh perspectives to my work.</li>
+<li>I'm a <strong>Software Developer</strong> crafting <strong>Android, Backend, and Cross-Platform Apps</strong>. I enjoy transforming ideas into <strong>apps that are intuitive, practical, and enjoyable</strong>.</li><br>
+<li>I focus on <strong>solving problems elegantly</strong> and ensuring systems run smoothly, striving for <strong>clean and efficient solutions</strong>.</li><br>
+<li>I'm constantly exploring <strong>new technologies</strong> to refine my skills and bring fresh perspectives to my work.</li><br>
 <li>Beyond coding, I pursue side projects, experiment with ideas, and enjoy collaborating to create products that people genuinely value.</li>
 </ul>
 
