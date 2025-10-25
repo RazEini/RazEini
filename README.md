@@ -492,6 +492,14 @@
 
 <br/>
 
+<p><i><h4 align="center">Thanks for visiting my profile! I'm always open to interesting collaborations or innovative project ideas — feel free to reach out! 👇</h4></i></p>
+
+<br/>
+
+<br/>
+
+<br/>
+
 <h2>📌 Professional Profile & Contact</h2>
 
 <br/>
