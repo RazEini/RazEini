@@ -67,8 +67,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
 </div>
 </td>
 </tr>
