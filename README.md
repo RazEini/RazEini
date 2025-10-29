@@ -26,7 +26,7 @@
 <br/>
 
 🎓 Currently part of the <strong>Academic Reserve Program (Atuda)</strong> in Software Engineering.<br><br>
-🔍 Always learning new technologies — currently focusing on: <strong>backend development with Python</strong>.<br><br>
+📖 Always learning new technologies — currently focusing on: <strong>backend development with Python</strong>.<br><br>
 💬 Ask me about <strong>Android, Java, Python, or full-stack app architecture</strong>.<br><br>
 🛠️ Currently working on: <a href="https://github.com/RazEini/SmartFileOrganizer"><strong>SmartFileOrganizer</strong></a> — automatic file organizer.<br><br>
 
