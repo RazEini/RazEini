@@ -2,7 +2,6 @@
   Hi, I’m Raz Eini 👋
 </h1>
 
-<h3 align="center">Building high-quality software with clarity and purpose.</h3>
 
 <br/>
 
