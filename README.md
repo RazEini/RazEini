@@ -495,7 +495,7 @@
 
 <br/>
 
-<p><i><h4>Thanks for visiting my profile! I'm always open to interesting collaborations or innovative project ideas — feel free to reach out! 👇</h4></i></p>
+<p><i><h4>Thanks for visiting my profile! <br> I'm always open to interesting collaborations or innovative project ideas — feel free to reach out! 👇</h4></i></p>
 
 <br/>
 
