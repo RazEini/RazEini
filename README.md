@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <em>Software Developer | Android, Backend, and Cross-Platform Apps</em>
+  <h3>Software Developer | Android, Backend, and Cross-Platform Apps</h3>
 </p>
 
 <br/>
