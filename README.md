@@ -185,6 +185,10 @@
 
 <br/>
 
+<h4>Below is a detailed overview of my projects: </h4>
+
+<br/>
+
 <details>
   <summary><h4>💻 View Projects</h4></b></summary>
 <h2 align="center">📂 Projects & Learnings</h2>
