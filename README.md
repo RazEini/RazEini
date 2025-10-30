@@ -1,9 +1,5 @@
-<h1>
-  Hi, I’m Raz Eini 👋
-</h1>
-
 <p>
-  <em>Software Developer | Android, Backend, and Cross-Platform Apps</em>
+  <img src="github-header.png" width="60%">
 </p>
 
 <br/>
