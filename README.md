@@ -8,10 +8,12 @@
 
 <br/>
 
-<p> Building <strong>intuitive and practical apps</strong> for Android, Backend, and cross-platform solutions.</p>
-<p> Focused on <strong>clean, efficient, and reliable code</strong> while solving real-world problems.</p>
-<p> Continuously exploring <strong>new technologies</strong> to enhance my skillset.</p>
-<p> Collaborating on projects that <strong>people truly value</strong> beyond just coding.</p>
+<ul>
+<li> Building <strong>intuitive and practical apps</strong> for Android, Backend, and cross-platform solutions.</li>
+<li> Focused on <strong>clean, efficient, and reliable code</strong> while solving real-world problems.</li>
+<li> Continuously exploring <strong>new technologies</strong> to enhance my skillset.</li>
+<li> Collaborating on projects that <strong>people truly value</strong> beyond just coding.</li>
+</ul>
 
 <br/>
 
