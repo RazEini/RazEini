@@ -17,7 +17,7 @@
 
 <br/>
 
-<p>check out my <a href="https://RazEini.github.io">Portfolio</a></p>
+<p> ⭐ check out my <a href="https://RazEini.github.io">Portfolio</a></p>
 
 <br/>
 
