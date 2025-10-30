@@ -498,6 +498,40 @@
 
 <br/>
 
+<p>
+
+  <!-- GitHub Stats -->
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=00000000&hide_border=false&border_color=30363d" />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=default&bg_color=ffffff&hide_border=false&border_color=ccc" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight" 
+      alt="RazEini's GitHub Stats" 
+      height="165px" 
+      style="border-radius:10px; vertical-align:middle; margin:10px;" />
+  </picture>
+
+  <!-- Top Languages -->
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=false&border_color=30363d" />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact&langs_count=8&theme=default&bg_color=ffffff&hide_border=false&border_color=ccc" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=RazEini&layout=compact" 
+      alt="Top Languages" 
+      height="165px" 
+      style="border-radius:10px; vertical-align:middle; margin:10px;" />
+  </picture>
+
+</p>
+
 <br/>
 
 <h2>📌 Professional Profile & Contact</h2>
