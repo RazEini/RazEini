@@ -280,8 +280,6 @@
 </div>
 </details>
 
-<br/>
-
 <details>
   <summary><h4>📱 View Projects (for Mobile)</h4></b></summary>
   <br/>
