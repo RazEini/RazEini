@@ -24,7 +24,7 @@
 <br/>
 
 <details>
-  <summary><b>🔍&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <summary><b>🔍&nbsp;&nbsp;About Me & Background</b></summary>
   <br/>
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -52,7 +52,7 @@
 <br/>
 
 <details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <summary><b>🛠️&nbsp;&nbsp;Languages, Frameworks & Tools I Use</b></summary>
   <br/>
 
 <table>
@@ -92,7 +92,7 @@
 <br/>
 
 <details>
-  <summary><b>💡&nbsp;&nbsp;Featured&nbsp;Projects</b></summary>
+  <summary><b>💡&nbsp;&nbsp;Featured Projects</b></summary>
   <br/>
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -197,7 +197,7 @@
 <br/>
 
 <details>
-  <summary><h4>💻 View Projects</h4></b></summary>
+  <summary><h4>💻 Detailed View of My Projects & Learnings</h4></b></summary>
 <h2 align="center">📂 Projects & Learnings</h2>
 
 <!-- Desktop Table -->
@@ -292,7 +292,7 @@
 </details>
 
 <details>
-  <summary><h4>📱 View Projects (for Mobile)</h4></b></summary>
+  <summary><h4>📱 Mobile-Friendly Projects Overview</h4></b></summary>
   <br/>
 
   <h2 align="center">📂 Projects & Learnings</h2>
