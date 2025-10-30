@@ -2,14 +2,17 @@
   Hi, I’m Raz Eini 👋
 </h1>
 
+<p align="center">
+  <em>Software Developer | Android, Backend, and Cross-Platform Apps</em>
+</p>
 
 <br/>
 
 <ul>
-<li>I'm a <strong>Software Developer</strong> building <strong>Android, Backend, and Cross-Platform apps</strong> with a focus on intuitive and practical user experiences.</li><br>
-<li>I aim for <strong>clean, efficient, and reliable solutions</strong> while solving real-world problems.</li><br>
-<li>I continuously explore <strong>new technologies</strong> to improve my craft and stay up-to-date.</li><br>
-<li>Beyond coding, I work on side projects and collaborate to create products people truly value.</li>
+<li> Building <strong>intuitive and practical apps</strong> for Android, Backend, and cross-platform solutions.</li>
+<li> Focused on <strong>clean, efficient, and reliable code</strong> while solving real-world problems.</li>
+<li> Continuously exploring <strong>new technologies</strong> to enhance my skillset.</li>
+<li> Collaborating on projects that <strong>people truly value</strong> beyond just coding.</li>
 </ul>
 
 <br/>
