@@ -197,7 +197,7 @@
 <br/>
 
 <details>
-  <summary align="center"><h2>💻 View Projects</h2></b></summary>
+  <summary align="center"><h3>💻 View Projects</h3></b></summary>
 <h2 align="center">📂 Projects & Learnings</h2>
 
 <!-- Desktop Table -->
@@ -294,7 +294,7 @@
 <br/>
 
 <details>
-  <summary align="center"><h3>📱 View Projects (for Mobile)</h3></b></summary>
+  <summary align="center"><h4>📱 View Projects (for Mobile)</h4></b></summary>
   <br/>
 
   <h2 align="center">📂 Projects & Learnings</h2>
