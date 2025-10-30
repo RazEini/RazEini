@@ -16,6 +16,10 @@
 
 <br/>
 
+<details>
+  <summary><b>🔍&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
@@ -36,7 +40,13 @@
 
 </div>
 
+</details>
+
 <br/>
+
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <br/>
 
 <table>
 <tr>
@@ -70,11 +80,17 @@
 </tr>
 </table>
 
+</details>
+
 <br/>
 
 <hr/>
 
 <br/>
+
+<details>
+  <summary><b>💻&nbsp;&nbsp;Featured&nbsp;Projects</b></summary>
+  <br/>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -168,6 +184,8 @@
 </td>
 </tr>
 </table>
+
+</details>
 
 <br/>
 
