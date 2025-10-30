@@ -192,7 +192,7 @@
 
 <br/>
 
-<p><i><h4>Below is a detailed overview of my projects: </h4></i></p>
+<p><i>Below is a detailed overview of my projects: </i></p>
 
 <br/>
 
