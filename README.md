@@ -4,6 +4,12 @@
 
 <br/>
 
+<p align="center">
+  <em>Software Developer | Android, Backend, and Cross-Platform Apps</em>
+</p>
+
+<br/>
+
 <ul>
 <li> Building <strong>intuitive and practical apps</strong> for Android, Backend, and cross-platform solutions.</li>
 <li> Focused on <strong>clean, efficient, and reliable code</strong> while solving real-world problems.</li>
