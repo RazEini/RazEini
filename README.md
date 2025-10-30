@@ -185,7 +185,7 @@
 
 <br/>
 
-<h4 align="center">
+<h4>
   Below is a detailed overview of my projects, what I learned from them, and the technologies I used.
   You can explore each project further by checking out the links provided.
 </h4>
@@ -502,7 +502,7 @@
 
 <br/>
 
-<p><i><h4 align="center">Thanks for visiting my profile! I'm always open to interesting collaborations or innovative project ideas — feel free to reach out! 👇</h4></i></p>
+<p><i><h4>Thanks for visiting my profile! I'm always open to interesting collaborations or innovative project ideas — feel free to reach out! 👇</h4></i></p>
 
 <br/>
 
