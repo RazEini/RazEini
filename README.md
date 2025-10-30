@@ -84,10 +84,6 @@
 
 <br/>
 
-<hr/>
-
-<br/>
-
 <details>
   <summary><b>💻&nbsp;&nbsp;Featured&nbsp;Projects</b></summary>
   <br/>
