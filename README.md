@@ -190,12 +190,6 @@
 
 </details>
 
-<br/>
-
-<p><i>Below is a detailed overview of my projects: </i></p>
-
-<br/>
-
 <details>
   <summary><h4>💻 Detailed View of My Projects & Learnings</h4></b></summary>
 <h2 align="center">📂 Projects & Learnings</h2>
