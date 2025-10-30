@@ -17,7 +17,7 @@
 
 <br/>
 
-<p>check ouy my <a href="https://RazEini.github.io">Portfolio</a></p>
+<p>check out my <a href="https://RazEini.github.io">Portfolio</a></p>
 
 <br/>
 
@@ -495,14 +495,6 @@
 </details>
 
 </details>
-
-<br/>
-
-<br/>
-
-<p><i><h4>Thanks for visiting my profile! <br> I'm always open to interesting collaborations or innovative project ideas — feel free to reach out! 👇</h4></i></p>
-
-<br/>
 
 <br/>
 
