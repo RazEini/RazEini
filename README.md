@@ -185,13 +185,6 @@
 
 <br/>
 
-<h4>
-  Below is a detailed overview of my projects, what I learned from them, and the technologies I used.
-  You can explore each project further by checking out the links provided.
-</h4>
-
-<br/>
-
 <details>
   <summary><h4>💻 View Projects</h4></b></summary>
 <h2 align="center">📂 Projects & Learnings</h2>
