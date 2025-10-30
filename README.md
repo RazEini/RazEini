@@ -85,7 +85,7 @@
 <br/>
 
 <details>
-  <summary><b>💻&nbsp;&nbsp;Featured&nbsp;Projects</b></summary>
+  <summary><b>💡&nbsp;&nbsp;Featured&nbsp;Projects</b></summary>
   <br/>
 
 <h2 align="center">🚀 Featured Projects</h2>
