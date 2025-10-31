@@ -2,9 +2,9 @@
   <img src="header-image.png" width="40%">
 </p>
 
-  <h3>Software Developer | Android, Backend, and Cross-Platform Apps</h3>
+<hr/>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Montserrat:wght@700&size=25&duration=5200&color=00BFFF&center=false&width=500&lines=Hi+There!+👋;I'm+Raz+Eini;Software+Developer;Building+Cool+Apps)](https://git.io/typing-svg)
 
 <ul>
 <li> Building <strong>intuitive and practical apps</strong> for Android, Backend, and cross-platform solutions.</li>
