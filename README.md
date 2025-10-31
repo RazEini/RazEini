@@ -1,8 +1,8 @@
-<p>
-  <img src="github-header-pic.png" width="65%">
-</p>
-
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-banner-dark.PNG" />
+  <source media="(prefers-color-scheme: light)" srcset="github-banner-light.PNG" />
+  <img src="github-banner-light.PNG" alt="Raz Eini Banner" />
+</picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Montserrat:wght@700&size=25&duration=5200&color=00BFFF&center=false&width=500&lines=Hi+There!+👋;I'm+Raz+Eini;Software+Developer;Check+Out+My+Latest+Projects!)](https://git.io/typing-svg)
 
