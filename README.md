@@ -14,7 +14,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Montserrat:wght@700&size=25&duration=5200&color=00BFFF&center=false&width=500&lines=Hi+There!+👋;Check+Out+My+Resume+Below+👇;Explore+My+Latest+Projects!;Feel+Free+To+Reach+Out+🤝)](https://git.io/typing-svg)
+<p>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Montserrat:wght@700&size=25&duration=5200&color=00BFFF&center=false&width=500&lines=Hi+There!+👋;Check+Out+My+Resume+Below+👇;Explore+My+Latest+Projects!;Feel+Free+To+Reach+Out+🤝)](https://git.io/typing-svg)
+
+</p>
 
 <ul>
 <li> Building <strong>intuitive and practical apps</strong> for Android, Backend, and cross-platform solutions.</li>
