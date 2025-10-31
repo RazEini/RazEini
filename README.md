@@ -32,10 +32,15 @@
 <tr>
 <td>
 
-🎓 Currently part of the <strong>Academic Reserve Program (Atuda)</strong> in Software Engineering.<br><br>
-📘 Always learning new technologies — currently focusing on: <strong>backend development with Python</strong>.<br><br>
-💬 Ask me about <strong>Android, Java, Python, or full-stack app architecture</strong>.<br><br>
-🛠️ Currently working on: <a href="https://github.com/RazEini/SmartFileOrganizer"><strong>SmartFileOrganizer</strong></a> — automatic file organizer (using python).<br><br>
+🎓 Currently part of the <strong>Academic Reserve Program (Atuda)</strong>, pursuing a B.Sc. in Software Engineering and gaining practical experience throughout my studies.<br><br>
+
+📘 Continuously expanding my skill set, with a current focus on <strong>backend development in Python</strong>, software architecture patterns, and maintainable system design.<br><br>
+
+💬 Feel free to reach out regarding <strong>Android development, Java, Python, backend engineering,</strong> or structuring full-stack applications with effective, scalable practices.<br><br>
+
+🛠️ Currently developing: <a href="https://github.com/RazEini/SmartFileOrganizer"><strong>SmartFileOrganizer</strong></a> — a Python-based tool that automates file organization and improves workflow efficiency.<br><br>
+
+🤝 Open to collaboration, technical discussions, and exploring new engineering challenges.<br><br>
 
 </td>
 </tr>
