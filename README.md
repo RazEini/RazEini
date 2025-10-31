@@ -2,6 +2,7 @@
   <img src="github-header-pic.png" width="65%">
 </p>
 
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Montserrat:wght@700&size=25&duration=5200&color=00BFFF&center=false&width=500&lines=Hi+There!+👋;I'm+Raz+Eini;Software+Developer;Building+Cool+Apps)](https://git.io/typing-svg)
 
