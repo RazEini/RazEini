@@ -2,9 +2,7 @@
   <img src="github-header-pic.png" width="85%">
 </p>
 
-<p align="center">
   <h3>Software Developer | Android, Backend, and Cross-Platform Apps</h3>
-</p>
 
 <br/>
 
