@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Montserrat:wght@700&size=25&duration=5200&color=00BFFF&center=false&width=500&lines=Hi+There!+👋;I'm+Raz+Eini;Software+Developer;Android+|+Backend+|+Cross-Platform+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Montserrat:wght@700&size=25&duration=5200&color=00BFFF&center=false&width=500&lines=Hi+There!+👋;I'm+Raz+Eini;Software+Developer)](https://git.io/typing-svg)
 
 <ul>
 <li> Building <strong>intuitive and practical apps</strong> for Android, Backend, and cross-platform solutions.</li>
