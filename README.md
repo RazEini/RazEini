@@ -3,9 +3,9 @@
 <td>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-banner-dark.PNG" />
-  <source media="(prefers-color-scheme: light)" srcset="github-banner.PNG" />
-  <img src="github-banner.PNG" alt="Raz Eini Banner" />
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.PNG" />
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.PNG" />
+  <img src="banner-light.PNG" alt="Raz Eini Banner" />
 </picture>
 
 </td>
