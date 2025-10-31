@@ -24,7 +24,7 @@
 <br/>
 
 <details>
-  <summary><b>🔍&nbsp;&nbsp;Some Facts About Me</b></summary>
+  <summary><b>🔍&nbsp;&nbsp;About Me</b></summary>
   <br/>
 
 <div>
