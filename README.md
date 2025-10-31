@@ -1,8 +1,16 @@
+<table align="center">
+<tr>
+<td>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-banner-dark.PNG" />
   <source media="(prefers-color-scheme: light)" srcset="github-banner.PNG" />
   <img src="github-banner.PNG" alt="Raz Eini Banner" />
 </picture>
+
+</td>
+</tr>
+</table>
 
 <hr/>
 
