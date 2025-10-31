@@ -1,5 +1,5 @@
 <p>
-  <img src="github-header-pic.png" width="85%">
+  <img src="header-image.png" width="40%">
 </p>
 
   <h3>Software Developer | Android, Backend, and Cross-Platform Apps</h3>
