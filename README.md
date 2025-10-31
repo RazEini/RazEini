@@ -27,14 +27,10 @@
   <summary><b>🔍&nbsp;&nbsp;Some Facts About Me</b></summary>
   <br/>
 
-<h2 align="center">👨‍💻 About Me</h2>
-
-<div align="center">
-
+<div>
 <table>
 <tr>
-<td align="center" width="999">
-<br/>
+<td>
 
 🎓 Currently part of the <strong>Academic Reserve Program (Atuda)</strong> in Software Engineering.<br><br>
 📘 Always learning new technologies — currently focusing on: <strong>backend development with Python</strong>.<br><br>
@@ -44,7 +40,6 @@
 </td>
 </tr>
 </table>
-
 </div>
 
 </details>
@@ -57,9 +52,9 @@
 
 <table>
 <tr>
-<td width="999">
-<h2 align="center">Languages, Frameworks & Tools</h2>
-<div align="center">
+<td>
+<h2>Languages, Frameworks & Tools</h2>
+<div>
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
@@ -78,11 +73,12 @@
 
 <br/>
 
-<h2 align="center">📚 Planning To Learn Next : </h2>
-<div align="center">
+<h2>📚 Planning To Learn Next : </h2>
+<div>
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
 </div>
+
 </td>
 </tr>
 </table>
