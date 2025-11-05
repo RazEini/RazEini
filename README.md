@@ -77,11 +77,11 @@
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/800px-Android_Studio_Logo_%282023%29.svg.png" alt="android studio" height="50" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
   <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
   <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </div>
