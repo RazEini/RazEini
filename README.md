@@ -68,7 +68,7 @@
 <br/>
 
 <h2 align="center">📚 Planning To Learn Next : </h2>
-<div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
 </div>
