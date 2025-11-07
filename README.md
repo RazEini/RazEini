@@ -44,13 +44,13 @@
 <br/>
 
 <details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages, Frameworks & Tools I Use</b></summary>
+  <summary><b>🛠️&nbsp;&nbsp;Languages & Tools I Use</b></summary>
   <br/>
 
 <table>
 <tr>
 <td>
-<h2>Languages & Tools</h2>
+<h2 align="center">Languages & Tools</h2>
 <div>
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
@@ -67,7 +67,7 @@
 
 <br/>
 
-<h2>📚 Planning To Learn Next : </h2>
+<h2 align="center">📚 Planning To Learn Next : </h2>
 <div>
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
