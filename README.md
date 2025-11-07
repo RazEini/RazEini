@@ -1,24 +1,6 @@
-<table align="center">
-<tr>
-<td>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-darker.PNG" />
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.PNG" />
-  <img src="banner-light.PNG" alt="Raz Eini Banner" />
-</picture>
-
-</td>
-</tr>
-</table>
+<h1>Raz Eini — Software Engineering Student | Android & Python Developer 👋</h1>
 
 <br/>
-
-<p>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Montserrat:wght@700&size=25&duration=5200&color=00BFFF&center=false&width=500&lines=Hi+There!+👋;Check+Out+My+Resume+Below+👇;Explore+My+Latest+Projects!;Feel+Free+To+Reach+Out+🤝)](https://git.io/typing-svg)
-
-</p>
 
 <ul>
 <li> Building <strong>intuitive and practical apps</strong> for Android, Backend, and cross-platform solutions.</li>
@@ -506,22 +488,7 @@
 <br/>
 
 <p>
-
-  <!-- GitHub Stats -->
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=00000000&hide_border=false&border_color=30363d" />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=default&bg_color=ffffff&hide_border=false&border_color=ccc" />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=RazEini&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight" 
-      alt="RazEini's GitHub Stats" 
-      height="165px" 
-      style="border-radius:10px; vertical-align:middle; margin:10px;" />
-  </picture>
-
+  
   <!-- Top Languages -->
   <picture>
     <source 
