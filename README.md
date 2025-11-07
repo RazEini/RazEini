@@ -1,4 +1,4 @@
-<h1>Raz Eini — Software Engineering Student | Android & Python Developer 👋</h1>
+<h1> Hi there! I'm Raz Eini 👋</h1>
 
 <br/>
 
