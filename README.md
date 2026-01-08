@@ -2,7 +2,6 @@
 ### Software Engineering Student | Android & Backend Developer
 
 🎓 B.Sc. Software Engineering (Academic Reserve – Atuda)  
-📱 Android (Jetpack Compose) • 🐍 Python • ⚙️ Backend  
 💡 I build clean, practical, and maintainable software for real-world problems  
 
 🌐 **Portfolio:** https://RazEini.github.io  
