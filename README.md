@@ -16,6 +16,8 @@
 ![Kotlin](https://skillicons.dev/icons?i=kotlin)
 ![Python](https://skillicons.dev/icons?i=python)
 ![C#](https://skillicons.dev/icons?i=cs)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 
 **Frameworks & Tools**  
@@ -45,12 +47,7 @@
 - User authentication  
 - Real-time shopping cart  
 - Admin dashboard  
-
-**Tech:** Java, Firebase  
-🔗 https://github.com/RazEini/e_commerce_shop  
-
----
-
+t
 ### 💬 SmartChat – Secure Hebrew Chatbot
 **Hebrew chatbot with Flask backend and interactive frontend**  
 - Secure API integration  
