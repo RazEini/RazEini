@@ -11,6 +11,7 @@
 ## 🛠️ Tech Stack
 
 **Languages**  
+
 ![Java](https://skillicons.dev/icons?i=java)
 ![Kotlin](https://skillicons.dev/icons?i=kotlin)
 ![Python](https://skillicons.dev/icons?i=python)
@@ -20,6 +21,7 @@
 ![JavaScript](https://skillicons.dev/icons?i=js)
 
 **Frameworks & Tools**  
+
 ![Android](https://skillicons.dev/icons?i=androidstudio)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Flask](https://skillicons.dev/icons?i=flask)
