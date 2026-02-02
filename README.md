@@ -48,7 +48,7 @@
 - User authentication  
 - Real-time shopping cart  
 - Admin dashboard  
-t
+
 ### 💬 SmartChat – Secure Hebrew Chatbot
 **Hebrew chatbot with Flask backend and interactive frontend**  
 - Secure API integration  
