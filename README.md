@@ -49,6 +49,8 @@
 - Real-time shopping cart  
 - Admin dashboard  
 
+**Tech:** Android, java , Firebase  
+🔗 https://github.com/RazEini/e_commerce_shop
 ---
 
 ### 💬 SmartChat – Secure Hebrew Chatbot
