@@ -54,7 +54,7 @@
 
 ---
 
-### 💬 SmartChat – Secure Hebrew Chatbot
+### 💬 SmartChat – Hebrew Chatbot
 **Hebrew chatbot with Flask backend and interactive frontend**  
 - Secure API integration  
 - Multiple chat sessions  
