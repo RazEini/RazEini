@@ -32,7 +32,7 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 [Smart Task Flow](https://github.com/RazEini/Smart_Task_Flow) 🔗
+### 🧠 [Smart Task Flow](https://github.com/RazEini/Smart_Task_Flow) 
 > **Automated prioritization logic & modern Android UI with Jetpack Compose**
 
 * **Motivation:** Most task managers are just "to-do lists" that eventually become cluttered. I built a tool that actively helps with decision-making—telling me *what* to do next based on priority and urgency.
@@ -42,7 +42,7 @@
 
 ---
 
-### 🛒 [E-Commerce Shop](https://github.com/RazEini/e_commerce_shop) 🔗
+### 🛒 [E-Commerce Shop](https://github.com/RazEini/e_commerce_shop) 
 > **Real-time data synchronization & complex state management**
 
 * **Motivation:** Understanding how large-scale consumer apps maintain data consistency between thousands of users and an admin dashboard.
@@ -52,7 +52,7 @@
 
 ---
 
-### 💬 [SmartChat – Hebrew Chatbot](https://github.com/RazEini/smart_chat_bot) 🔗
+### 💬 [SmartChat – Hebrew Chatbot](https://github.com/RazEini/smart_chat_bot) 
 > **Full-stack AI integration with focus on RTL support & session management**
 
 * **Motivation:** Creating a solution that combines AI power with a clean, responsive web interface, specifically optimized for Hebrew.
@@ -62,7 +62,7 @@
 
 ---
 
-### 🔐 [Password Manager](https://github.com/RazEini/Password_Manager) 🔗
+### 🔐 [Password Manager](https://github.com/RazEini/Password_Manager) 
 > **Secure vault implementation using industry-standard encryption protocols**
 
 * **Motivation:** Moving away from third-party managers to build a personal "vault" and fully understand encryption "under the hood."
