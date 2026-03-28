@@ -40,6 +40,12 @@
 * **Key Learning:** Deep dive into **Jetpack Compose** and **MVVM** architecture. Managed complex UI states while keeping business logic clean and decoupled.
 * **Tech Stack:** Kotlin, Firebase.
 
+<p align="left">
+  <a href="https://github.com/RazEini/Smart_Task_Flow">
+    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 ---
 
 ### 🛒 [E-Commerce Shop](https://github.com/RazEini/e_commerce_shop) 
@@ -49,6 +55,12 @@
 * **The Challenge:** Implementing a real-time shopping cart that syncs across multiple devices and handles instant inventory updates during checkout.
 * **Key Learning:** Mastered **Firebase Realtime Database** and user authentication. Designed an Admin Panel that simplifies complex management tasks.
 * **Tech Stack:** Android (Java), Firebase.
+
+<p align="left">
+  <a href="https://github.com/RazEini/e_commerce_shop">
+    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
@@ -60,6 +72,12 @@
 * **Key Learning:** Sharpened **Full-stack** skills. Learned how to handle API security and how to structure a Flask app to be modular and scalable.
 * **Tech Stack:** Python, Flask, HTML/CSS/JS.
 
+<p align="left">
+  <a href="https://github.com/RazEini/smart_chat_bot">
+    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 ---
 
 ### 🔐 [Password Manager](https://github.com/RazEini/Password_Manager) 
@@ -69,6 +87,12 @@
 * **The Challenge:** Correctly implementing the **AES-128-GCM** encryption protocol—ensuring there are no "almosts" in security.
 * **Key Learning:** Masterclass in **Cybersecurity fundamentals**: Salting, Hashing, and secure local storage. Developed a "security-first" mindset for development.
 * **Tech Stack:** Python.
+
+<p align="left">
+  <a href="https://github.com/RazEini/Password_Manager">
+    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
