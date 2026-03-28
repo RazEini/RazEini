@@ -98,7 +98,7 @@
 
 ## 📫 Contact
 
-> **Always looking for the next challenge.** > Feel free to reach out for collaborations or just to talk tech!
+>🤝 Let's Connect! > Whether it's about a project or a potential opportunity, I'm just a message away.
 <br><br>
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github)](https://github.com/RazEini)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raz-eini-9875a8394)
