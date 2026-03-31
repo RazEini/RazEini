@@ -80,6 +80,22 @@
 
 ---
 
+### 📂 [Smart File Organizer](https://github.com/RazEini/Smart_File_Organizer) 
+> **Intelligent desktop automation tool for efficient file system management**
+
+* **Motivation:** Solving the "cluttered folders" problem by building a robust system that automates file categorization and monitoring in the background.
+* **The Challenge:** Implementing a reliable **Undo/Redo** system based on operation history and managing real-time file system events without data loss.
+* **Key Learning:** Gained deep experience in **Event-driven programming** using the Watchdog library and modern GUI development with `ttkbootstrap`.
+* **Tech Stack:** Python, Watchdog, ttkbootstrap.
+
+<p align="left">
+  <a href="https://github.com/RazEini/Smart_File_Organizer">
+    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
 ### 💬 [SmartChat – Hebrew Chatbot](https://github.com/RazEini/smart_chat_bot) 
 > **Full-stack AI integration with focus on RTL support & session management**
 
