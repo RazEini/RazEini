@@ -32,6 +32,22 @@
 
 ## 🚀 Featured Projects
 
+### 🔐 [Password Manager](https://github.com/RazEini/Password_Manager) 
+> **Secure vault implementation using industry-standard encryption protocols**
+
+* **Motivation:** Moving away from third-party managers to build a personal "vault" and fully understand encryption "under the hood."
+* **The Challenge:** Correctly implementing the **AES-128-GCM** encryption protocol—ensuring there are no "almosts" in security.
+* **Key Learning:** Masterclass in **Cybersecurity fundamentals**: Salting, Hashing, and secure local storage. Developed a "security-first" mindset for development.
+* **Tech Stack:** Python.
+
+<p align="left">
+  <a href="https://github.com/RazEini/Password_Manager">
+    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
 ### 🕵️ [Network Packet Inspector (DPI)](https://github.com/RazEini/python_sniffer) 
 > **Real-time traffic analysis & security monitoring using deep packet inspection**
 
@@ -106,22 +122,6 @@
 
 <p align="left">
   <a href="https://github.com/RazEini/smart_chat_bot">
-    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-### 🔐 [Password Manager](https://github.com/RazEini/Password_Manager) 
-> **Secure vault implementation using industry-standard encryption protocols**
-
-* **Motivation:** Moving away from third-party managers to build a personal "vault" and fully understand encryption "under the hood."
-* **The Challenge:** Correctly implementing the **AES-128-GCM** encryption protocol—ensuring there are no "almosts" in security.
-* **Key Learning:** Masterclass in **Cybersecurity fundamentals**: Salting, Hashing, and secure local storage. Developed a "security-first" mindset for development.
-* **Tech Stack:** Python.
-
-<p align="left">
-  <a href="https://github.com/RazEini/Password_Manager">
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
 </p>
