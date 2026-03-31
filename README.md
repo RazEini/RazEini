@@ -32,6 +32,22 @@
 
 ## 🚀 Featured Projects
 
+### 🕵️ [Network Packet Inspector (DPI)](https://github.com/RazEini/python_sniffer) 
+> **Real-time traffic analysis & security monitoring using deep packet inspection**
+
+* **Motivation:** Understanding the flow of data across a local network and identifying how unencrypted protocols (HTTP) expose sensitive information.
+* **The Challenge:** Filtering through high volumes of network noise to isolate specific security threats and decoding raw binary payloads into human-readable data.
+* **Key Learning:** Advanced knowledge of the **OSI Model** and **TCP/IP stack**. Gained hands-on experience with **Scapy** for raw socket manipulation and network forensics.
+* **Tech Stack:** Python, Scapy.
+
+<p align="left">
+  <a href="https://github.com/RazEini/python_sniffer">
+    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
 ### 🧠 [Smart Task Flow](https://github.com/RazEini/Smart_Task_Flow) 
 > **Automated prioritization logic & modern Android UI with Jetpack Compose**
 
