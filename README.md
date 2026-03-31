@@ -80,7 +80,7 @@
 
 ---
 
-### 📂 [Smart File Organizer](https://github.com/RazEini/Smart_File_Organizer) 
+### 📂 [Smart File Organizer](https://github.com/RazEini/SmartFileOrganizer) 
 > **Intelligent desktop automation tool for efficient file system management**
 
 * **Motivation:** Solving the "cluttered folders" problem by building a robust system that automates file categorization and monitoring in the background.
@@ -89,7 +89,7 @@
 * **Tech Stack:** Python, Watchdog, ttkbootstrap.
 
 <p align="left">
-  <a href="https://github.com/RazEini/Smart_File_Organizer">
+  <a href="https://github.com/RazEini/SmartFileOrganizer">
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
 </p>
