@@ -64,22 +64,6 @@
 
 ---
 
-### 🧠 [Smart Task Flow](https://github.com/RazEini/Smart_Task_Flow) 
-> **Automated prioritization logic & modern Android UI with Jetpack Compose**
-
-* **Motivation:** Most task managers are just "to-do lists" that eventually become cluttered. I built a tool that actively helps with decision-making—telling me *what* to do next based on priority and urgency.
-* **The Challenge:** Designing an automated prioritization logic that feels intuitive and doesn't overwhelm the user.
-* **Key Learning:** Deep dive into **Jetpack Compose** and **MVVM** architecture. Managed complex UI states while keeping business logic clean and decoupled.
-* **Tech Stack:** Kotlin, Firebase.
-
-<p align="left">
-  <a href="https://github.com/RazEini/Smart_Task_Flow">
-    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
 ### 🛒 [E-Commerce Shop](https://github.com/RazEini/e_commerce_shop) 
 > **Real-time data synchronization & complex state management**
 
@@ -90,6 +74,22 @@
 
 <p align="left">
   <a href="https://github.com/RazEini/e_commerce_shop">
+    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+### 🧠 [Smart Task Flow](https://github.com/RazEini/Smart_Task_Flow) 
+> **Automated prioritization logic & modern Android UI with Jetpack Compose**
+
+* **Motivation:** Most task managers are just "to-do lists" that eventually become cluttered. I built a tool that actively helps with decision-making—telling me *what* to do next based on priority and urgency.
+* **The Challenge:** Designing an automated prioritization logic that feels intuitive and doesn't overwhelm the user.
+* **Key Learning:** Deep dive into **Jetpack Compose** and **MVVM** architecture. Managed complex UI states while keeping business logic clean and decoupled.
+* **Tech Stack:** Kotlin, Firebase.
+
+<p align="left">
+  <a href="https://github.com/RazEini/Smart_Task_Flow">
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
 </p>
