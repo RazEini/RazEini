@@ -40,7 +40,7 @@
 * **Key Learning:** Masterclass in **Cybersecurity fundamentals**: Salting, Hashing, and secure local storage. Developed a "security-first" mindset for development.
 * **Tech Stack:** Python.
 
-<p align="left">
+<p align="right">
   <a href="https://github.com/RazEini/Password_Manager">
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
@@ -56,7 +56,7 @@
 * **Key Learning:** Advanced knowledge of the **OSI Model** and **TCP/IP stack**. Gained hands-on experience with **Scapy** for raw socket manipulation and network forensics.
 * **Tech Stack:** Python, Scapy.
 
-<p align="left">
+<p align="right">
   <a href="https://github.com/RazEini/python_sniffer">
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
@@ -72,7 +72,7 @@
 * **Key Learning:** Mastered **Firebase Realtime Database** and user authentication. Designed an Admin Panel that simplifies complex management tasks.
 * **Tech Stack:** Android (Java), Firebase.
 
-<p align="left">
+<p align="right">
   <a href="https://github.com/RazEini/e_commerce_shop">
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
@@ -88,7 +88,7 @@
 * **Key Learning:** Deep dive into **Jetpack Compose** and **MVVM** architecture. Managed complex UI states while keeping business logic clean and decoupled.
 * **Tech Stack:** Kotlin, Firebase.
 
-<p align="left">
+<p align="right">
   <a href="https://github.com/RazEini/Smart_Task_Flow">
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
@@ -104,7 +104,7 @@
 * **Key Learning:** Gained deep experience in **Event-driven programming** using the Watchdog library and modern GUI development with `ttkbootstrap`.
 * **Tech Stack:** Python, Watchdog, ttkbootstrap.
 
-<p align="left">
+<p align="right">
   <a href="https://github.com/RazEini/SmartFileOrganizer">
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
@@ -120,7 +120,7 @@
 * **Key Learning:** Sharpened **Full-stack** skills. Learned how to handle API security and how to structure a Flask app to be modular and scalable.
 * **Tech Stack:** Python, Flask, HTML/CSS/JS.
 
-<p align="left">
+<p align="right">
   <a href="https://github.com/RazEini/smart_chat_bot">
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
