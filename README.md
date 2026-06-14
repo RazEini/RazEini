@@ -4,8 +4,6 @@
 🎓 B.Sc. Software Engineering at **Afeka College** (Academic Reserve – Atuda)  
 💡 I build clean, practical, and maintainable software for real-world problems  
 
-🌐 **Portfolio:** https://RazEini.github.io
-
 ---
 
 ## 🛠️ Tech Stack
