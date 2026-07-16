@@ -9,7 +9,7 @@
 <a href="https://github.com/RazEini/RazEini">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RazEini/RazEini/main/Raz%20profile%20light.svg">
-    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/RazEini/RazEini/main/Raz%20profile%20dark.svg">
+    <img alt="Raz's GitHub Profile README" src="https://raw.githubusercontent.com/RazEini/RazEini/main/Raz%20profile%20dark.svg">
   </picture>
 </a>
 
