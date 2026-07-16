@@ -1,5 +1,5 @@
 # Hi, I'm Raz Eini 👋  
-### Software Engineering Student | Android & Backend Developer
+### Software Engineering Student | Security & Backend Focus
 
 🎓 B.Sc. Software Engineering at **Afeka College** (Academic Reserve – Atuda)  
 💡 I build clean, practical, and maintainable software for real-world problems  
