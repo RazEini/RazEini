@@ -141,6 +141,22 @@
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RazEini&show_icons=true&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RazEini&show_icons=true&theme=default">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RazEini&show_icons=true&theme=default" width="48%" alt="GitHub Stats" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=default">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=default" width="39%" alt="Top Languages" />
+  </picture>
+</p>
+
+---
+
 ## 📫 Contact
 
 >🤝 Let's Connect! > Whether it's about a project or a potential opportunity, I'm just a message away.
