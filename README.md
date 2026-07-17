@@ -6,15 +6,6 @@
 
 ---
 
-<a href="https://github.com/RazEini/RazEini">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RazEini/RazEini/main/raz_profile_light.svg">
-    <img alt="Raz's GitHub Profile README" src="https://raw.githubusercontent.com/RazEini/RazEini/main/raz_profile_dark.svg">
-  </picture>
-</a>
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**  
@@ -138,6 +129,15 @@
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
 </p>
+
+---
+
+<a href="https://github.com/RazEini/RazEini">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RazEini/RazEini/main/raz_profile_light.svg">
+    <img alt="Raz's GitHub Profile README" src="https://raw.githubusercontent.com/RazEini/RazEini/main/raz_profile_dark.svg">
+  </picture>
+</a>
 
 ---
 
