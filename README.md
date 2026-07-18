@@ -160,9 +160,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RazEini/RazEini/blob/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RazEini/RazEini/blob/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/RazEini/RazEini/blob/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RazEini/RazEini/blob/output/github-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RazEini/RazEini/blob/output/github-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://github.com/RazEini/RazEini/blob/output/github-snake.svg?v=1">
   </picture>
 </div>
 
