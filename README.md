@@ -142,8 +142,8 @@
 
 <a href="https://github.com/RazEini/RazEini">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RazEini/RazEini/main/raz_profile_light.svg">
-    <img alt="Raz's GitHub Profile README" src="https://raw.githubusercontent.com/RazEini/RazEini/main/raz_profile_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RazEini/RazEini/main/raz_profile_light_chess.svg">
+    <img alt="Raz's GitHub Profile README" src="https://raw.githubusercontent.com/RazEini/RazEini/main/raz_profile_dark_chess.svg">
   </picture>
 </a>
 
