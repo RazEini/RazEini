@@ -1,8 +1,9 @@
 # Hi, I'm Raz Eini 👋  
 ### Software Engineering Student | Security & Backend Focus
 
-🎓 B.Sc. Software Engineering at **Afeka College** (Academic Reserve – Atuda)  
-💡 I build clean, practical, and maintainable software for real-world problems  
+🎓 B.Sc. Software Engineering student at **Afeka College** (Academic Reserve – Atuda) <br><br>
+💡 I build clean, practical, and maintainable software for real-world problems <br><br>
+🔍 Continuously learning new technologies and hands-on software development
 
 ---
 
