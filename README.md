@@ -23,6 +23,7 @@
 ![Android](https://skillicons.dev/icons?i=androidstudio)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Flask](https://skillicons.dev/icons?i=flask)
+![Bash](https://skillicons.dev/icons?i=bash)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
