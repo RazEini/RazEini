@@ -14,6 +14,7 @@
 ![Kotlin](https://skillicons.dev/icons?i=kotlin)
 ![Python](https://skillicons.dev/icons?i=python)
 ![C#](https://skillicons.dev/icons?i=cs)
+![Bash](https://skillicons.dev/icons?i=bash)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -23,9 +24,11 @@
 ![Android](https://skillicons.dev/icons?i=androidstudio)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Flask](https://skillicons.dev/icons?i=flask)
-![Bash](https://skillicons.dev/icons?i=bash)
+![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![PyCharm](https://skillicons.dev/icons?i=pycharm)
+![VScode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
