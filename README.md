@@ -26,10 +26,9 @@
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![Linux](https://skillicons.dev/icons?i=linux)
+![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![PyCharm](https://skillicons.dev/icons?i=pycharm)
-![VScode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
