@@ -34,8 +34,8 @@
 ---
 
 ## 💻 Core Engineering Concepts
-*   **Networking & Cyber Security:** OSI Model, TCP/IP Stack, Deep Packet Inspection (DPI), Raw Sockets, Cryptographic Protocols (AES-GCM, Password Hashing/Salting).
-*   **Software Design & Architecture:** Object-Oriented Programming (OOP), MVVM Architecture, Event-Driven Design Patterns, Multithreading & Asynchronous Programming.
+*   **Networking & Cyber Security:** OSI Model, TCP/IP Stack, Deep Packet Inspection (DPI), Raw Sockets, Cryptographic Protocols (AES-GCM, Password Hashing/Salting). <br><br>
+*   **Software Design & Architecture:** Object-Oriented Programming (OOP), MVVM Architecture, Event-Driven Design Patterns, Multithreading & Asynchronous Programming. <br><br>
 *   **Data & State Management:** Real-time synchronization, State persistence, Session management.
 
 ---
