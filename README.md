@@ -59,16 +59,16 @@
 
 ---
 
-### 🕵️ [Network Packet Inspector (DPI)](https://github.com/RazEini/python_sniffer) 
-> **Real-time traffic analysis & security monitoring using deep packet inspection**
+### 🕵️ [NetGuard – Full-Stack NIDS & Observability Engine](https://github.com/Raz-Eini/python_sniffer) 
+> **Real-time Network Intrusion Detection System & Security Observability Stack**
 
-* **Motivation:** Understanding the flow of data across a local network and identifying how unencrypted protocols (HTTP) expose sensitive information.
-* **The Challenge:** Filtering through high volumes of network noise to isolate specific security threats and decoding raw binary payloads into human-readable data.
-* **Key Learning:** Advanced knowledge of the **OSI Model** and **TCP/IP stack**. Gained hands-on experience with **Scapy** for raw socket manipulation and network forensics.
-* **Tech Stack:** Python, Scapy.
+* **Motivation:** Building an enterprise-grade NIDS to perform real-time L2-L7 network monitoring, deep packet inspection (DPI), and dynamic threat mitigation.
+* **The Challenge:** Handling high-throughput network traffic without memory leaks or packet loss using a multi-threaded Producer-Consumer pipeline, along with seamless observability integration.
+* **Key Learning:** Deep mastery of **OSI/TCP-IP stacks**, real-time anomaly detection (DoS/Port Scans), thread-safety (`threading.Lock`), garbage collection, and infrastructure-as-code (**Dashboard-as-Code**).
+* **Tech Stack:** Python, Scapy, Multithreading, Docker Compose, Grafana, Loki, Promtail, JSON Structured Logging.
 
 <p align="left">
-  <a href="https://github.com/RazEini/python_sniffer">
+  <a href="https://github.com/Raz-Eini/python_sniffer">
     <br><br>
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
