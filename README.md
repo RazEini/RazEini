@@ -46,9 +46,9 @@
 > **Secure vault implementation using industry-standard encryption protocols**
 
 * **Motivation:** Moving away from third-party managers to build a personal "vault" and fully understand encryption "under the hood."
-* **The Challenge:** Correctly implementing the **AES-128-GCM** encryption protocol—ensuring there are no "almosts" in security.
-* **Key Learning:** Masterclass in **Cybersecurity fundamentals**: Salting, Hashing, and secure local storage. Developed a "security-first" mindset for development.
-* **Tech Stack:** Python.
+* **The Challenge:** Correctly implementing **AES-128-GCM** encryption and **PBKDF2** key derivation while maintaining a clean, modular architecture.
+* **Key Learning:** Masterclass in **Cybersecurity fundamentals**: Salting, Hashing, Key Derivation Functions (KDF), and secure local storage. Developed a "security-first" mindset and CI/CD automation.
+* **Tech Stack:** Python, Cryptography (Fernet / AES-128-GCM), PBKDF2-HMAC-SHA256, Pytest, GitHub Actions (CI/CD).
 
 <p align="left">
   <a href="https://github.com/RazEini/Password_Manager">
