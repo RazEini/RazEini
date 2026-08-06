@@ -59,7 +59,7 @@
 
 ---
 
-### 🕵️ [NetGuard – Full-Stack NIDS & Observability Engine](https://github.com/Raz-Eini/python_sniffer) 
+### 🕵️ [NetGuard – Full-Stack NIDS & Observability Engine](https://github.com/RazEini/python_sniffer) 
 > **Real-time Network Intrusion Detection System & Security Observability Stack**
 
 * **Motivation:** Building an enterprise-grade NIDS to perform real-time L2-L7 network monitoring, deep packet inspection (DPI), and dynamic threat mitigation.
@@ -68,7 +68,7 @@
 * **Tech Stack:** Python, Scapy, Multithreading, Docker Compose, Grafana, Loki, Promtail, JSON Structured Logging.
 
 <p align="left">
-  <a href="https://github.com/Raz-Eini/python_sniffer">
+  <a href="https://github.com/RazEini/python_sniffer">
     <br><br>
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
