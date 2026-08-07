@@ -35,13 +35,13 @@
 ## 💻 Core Engineering Concepts
 
 * **Cybersecurity & Cryptography:** 
-  Modern Symmetric Encryption (AES-128/256-GCM), Key Derivation Functions (PBKDF2-HMAC-SHA256), Password Hashing & Salting, Vault Architecture, Security-First Workflows, Dynamic Threat Mitigation, API Key Protection.
+  Modern Symmetric Encryption (AES-128/256-GCM), Key Derivation Functions (PBKDF2-HMAC-SHA256), Password Hashing & Salting, Vault Architecture, Security-First Workflows, Dynamic Threat Mitigation.
 
 * **Networking & Security Observability:** 
   OSI Model & TCP/IP Stack (L2–L7), Deep Packet Inspection (DPI), Raw Sockets, Traffic Analysis, Real-Time Intrusion Detection (DoS/Port Scans), Infrastructure-as-Code (Grafana, Loki, Promtail, Structured JSON Logging).
 
 * **Backend Systems, Concurrency & State Management:** 
-  Multi-threaded Architectures (Producer-Consumer Pipelines), Thread Synchronization (`threading.Lock`), Thread-Safe Memory Optimization (Garbage Collector Threads), Event-Driven File Monitoring (`watchdog`), Real-Time Data Synchronization (Firebase), State Persistence.
+  Multi-threaded Architectures (Producer-Consumer Pipelines), Thread Synchronization (`threading.Lock`), Thread-Safe Memory Optimization (Garbage Collector Threads), Event-Driven File Monitoring (`watchdog`), State Persistence.
 
 * **DevOps, Shell Scripting & Infrastructure Automation:** 
   Automated Infrastructure Deployment & Shell Scripting (`Bash`), Containerization & Orchestration (Docker, Docker Network, Multi-Volume Persistence), Automated CI/CD Pipelines (GitHub Actions), Backup & Recovery Workflows (`mysqldump`, Volume Management), Unit Testing (`pytest`).
