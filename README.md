@@ -47,7 +47,7 @@
   Automated Infrastructure Deployment & Shell Scripting (`Bash`), Containerization & Orchestration (Docker, Docker Network, Multi-Volume Persistence), Automated CI/CD Pipelines (GitHub Actions), Backup & Recovery Workflows (`mysqldump`, Volume Management), Unit Testing (`pytest`).
 
 * **Software Architecture & Full-Stack Engineering:** 
-  Advanced Java Generics & Type Constraints, OOP Principles (Polymorphism, Inheritance, Encapsulation), Custom Exception Flow Control, Design Patterns (Prototype/Cloning, Dynamic Comparisons, Undo/Redo Engine), Modern Mobile Architecture (MVVM, Jetpack Compose, StateFlow), Web APIs & Full-Stack Integration (Flask, RESTful Services, CMS/Drupal, RTL UI Design).
+  OOP Principles (Polymorphism, Encapsulation), Custom Exception Flow, Clean Architecture & MVVM, Modern Mobile Stack (Android, Jetpack Compose, StateFlow), Web APIs & RESTful Services (Flask).
 
 ---
 
