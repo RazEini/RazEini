@@ -33,9 +33,18 @@
 ---
 
 ## 💻 Core Engineering Concepts
-*   **Networking & Cyber Security:** OSI Model, TCP/IP Stack, Deep Packet Inspection (DPI), Raw Sockets, Cryptographic Protocols (AES-GCM, Password Hashing/Salting). <br><br>
-*   **Software Design & Architecture:** Object-Oriented Programming (OOP), MVVM Architecture, Event-Driven Design Patterns, Multithreading & Asynchronous Programming. <br><br>
-*   **Data & State Management:** Real-time synchronization, State persistence, Session management.
+
+* **Cybersecurity & Cryptography:** 
+  Modern Symmetric Encryption (AES-128/256-GCM), Key Derivation Functions (PBKDF2-HMAC-SHA256), Password Hashing & Salting, Vault Architecture, Security-First Workflows, Dynamic Threat Mitigation.
+
+* **Networking & Security Observability:** 
+  OSI Model & TCP/IP Stack (L2–L7), Deep Packet Inspection (DPI), Raw Sockets, Traffic Analysis, Real-Time Intrusion Detection (DoS/Port Scans), Infrastructure-as-Code (Grafana, Loki, Promtail, Structured JSON Logging).
+
+* **Backend Systems, Concurrency & State:** 
+  Multi-threaded Architectures (Producer-Consumer Pipelines), Thread Synchronization (`threading.Lock`), Thread-Safe Memory Optimization (Garbage Collector Threads), Event-Driven Systems, Session & State Persistence.
+
+* **Software Design & Object-Oriented Architecture:** 
+  Advanced Java Generics & Type Constraints, OOP Principles (Polymorphism, Inheritance, Encapsulation), Custom Exception Flow Control, Design Patterns (Prototypes/Cloning, Dynamic Comparison Modes), Mobile Architecture (MVVM, Jetpack Compose).
 
 ---
 
