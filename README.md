@@ -41,13 +41,13 @@
   OSI Model & TCP/IP Stack (L2–L7), Deep Packet Inspection (DPI), Raw Sockets, Traffic Analysis, Real-Time Intrusion Detection (DoS/Port Scans), Infrastructure-as-Code (Grafana, Loki, Promtail, Structured JSON Logging).
 
 * **Backend Systems, Concurrency & State Management:** 
-  Multi-threaded Architectures (Producer-Consumer Pipelines), Thread Synchronization (`threading.Lock`), Thread-Safe Memory Optimization (Garbage Collector Threads), Event-Driven File Monitoring (`watchdog`), Real-Time Data Synchronization (Firebase), State Persistence (SharedPreferences, History Tracking).
+  Multi-threaded Architectures (Producer-Consumer Pipelines), Thread Synchronization (`threading.Lock`), Thread-Safe Memory Optimization (Garbage Collector Threads), Event-Driven File Monitoring (`watchdog`), Real-Time Data Synchronization (Firebase), State Persistence.
 
-* **DevOps, CI/CD & Testing:** 
-  Automated CI/CD Pipelines (GitHub Actions), Unit Testing & Test Coverage (`pytest`), Containerization & Infrastructure Orchestration (Docker, Docker Compose), Dashboard-as-Code & Automated Provisioning.
+* **DevOps, Shell Scripting & Infrastructure Automation:** 
+  Automated Infrastructure Deployment & Shell Scripting (`Bash`), Containerization & Orchestration (Docker, Docker Network, Multi-Volume Persistence), Automated CI/CD Pipelines (GitHub Actions), Backup & Recovery Workflows (`mysqldump`, Volume Management), Unit Testing (`pytest`).
 
 * **Software Architecture & Full-Stack Engineering:** 
-  Advanced Java Generics & Type Constraints, OOP Principles (Polymorphism, Inheritance, Encapsulation), Custom Exception Flow Control, Design Patterns (Prototype/Cloning, Dynamic Comparisons, Undo/Redo Engine), Modern Mobile Architecture (MVVM, Jetpack Compose, StateFlow), Web APIs & Full-Stack Integration (Flask, RESTful Services, RTL UI Design).
+  Advanced Java Generics & Type Constraints, OOP Principles (Polymorphism, Inheritance, Encapsulation), Custom Exception Flow Control, Design Patterns (Prototype/Cloning, Dynamic Comparisons, Undo/Redo Engine), Modern Mobile Architecture (MVVM, Jetpack Compose, StateFlow), Web APIs & Full-Stack Integration (Flask, RESTful Services, CMS/Drupal, RTL UI Design).
 
 ---
 
