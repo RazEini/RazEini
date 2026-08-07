@@ -35,16 +35,16 @@
 ## 💻 Core Engineering Concepts
 
 * **Cybersecurity & Cryptography:** 
-  Modern Symmetric Encryption (AES-128/256-GCM), Key Derivation Functions (PBKDF2-HMAC-SHA256), Password Hashing & Salting, Vault Architecture, Security-First Workflows, Dynamic Threat Mitigation.
+  Modern Symmetric Encryption (AES-128/256-GCM), Key Derivation Functions (PBKDF2-HMAC-SHA256), Password Hashing & Salting, Vault Architecture, Security-First Workflows, Dynamic Threat Mitigation, API Key Protection & Environment Security.
 
 * **Networking & Security Observability:** 
   OSI Model & TCP/IP Stack (L2–L7), Deep Packet Inspection (DPI), Raw Sockets, Traffic Analysis, Real-Time Intrusion Detection (DoS/Port Scans), Infrastructure-as-Code (Grafana, Loki, Promtail, Structured JSON Logging).
 
-* **Backend Systems, Concurrency & State:** 
-  Multi-threaded Architectures (Producer-Consumer Pipelines), Thread Synchronization (`threading.Lock`), Thread-Safe Memory Optimization (Garbage Collector Threads), Event-Driven Systems, Session & State Persistence.
+* **Backend Systems, Concurrency & State Management:** 
+  Multi-threaded Architectures (Producer-Consumer Pipelines), Thread Synchronization (`threading.Lock`), Thread-Safe Memory Optimization (Garbage Collector Threads), Event-Driven File Monitoring (`watchdog`), Real-Time Data Synchronization (Firebase), State Persistence (SharedPreferences, History Tracking).
 
-* **Software Design & Object-Oriented Architecture:** 
-  Advanced Java Generics & Type Constraints, OOP Principles (Polymorphism, Inheritance, Encapsulation), Custom Exception Flow Control, Design Patterns (Prototypes/Cloning, Dynamic Comparison Modes), Mobile Architecture (MVVM, Jetpack Compose).
+* **Software Architecture & Full-Stack Engineering:** 
+  Advanced Java Generics & Type Constraints, OOP Principles (Polymorphism, Inheritance, Encapsulation), Custom Exception Flow Control, Design Patterns (Prototype/Cloning, Dynamic Comparisons, Undo/Redo Engine), Modern Mobile Architecture (MVVM, Jetpack Compose, StateFlow), Web APIs & Full-Stack Integration (Flask, RESTful Services, RTL UI Design).
 
 ---
 
