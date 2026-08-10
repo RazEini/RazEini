@@ -158,11 +158,20 @@
 
 ## 📊 My GitHub Metrics
 
+<br>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RazEini&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-git-masterstefan-anurag-hazras-projects.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=tokyonight" width="39%" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=RazEini&show_icons=true&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=RazEini&show_icons=true&theme=default">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=RazEini&show_icons=true&theme=default&hide_border=true" width="39.5%" alt="GitHub Stats" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=default">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=default&hide_border=true" width="30%" alt="Top Languages" />
+  </picture>
 </p>
-
 
 <div align="center">
   <picture>
