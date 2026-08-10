@@ -159,17 +159,8 @@
 ## 📊 My GitHub Metrics
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RazEini&show_icons=true&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RazEini&show_icons=true&theme=default">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RazEini&show_icons=true&theme=default" width="48%" alt="GitHub Stats" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=default">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=default" width="39%" alt="Top Languages" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=RazEini&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-git-masterstefan-anurag-hazras-projects.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=tokyonight" width="39%" alt="Top Languages" />
 </p>
 
 
