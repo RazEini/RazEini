@@ -163,13 +163,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=RazEini&show_icons=true&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=RazEini&show_icons=true&theme=default">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=RazEini&show_icons=true&theme=default&hide_border=true" width="39.5%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=RazEini&show_icons=true&theme=default&hide_border=true" width="41.5%" alt="GitHub Stats" />
   </picture>
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=github_dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=default">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=default&hide_border=true" width="30%" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=default&hide_border=true" width="32%" alt="Top Languages" />
   </picture>
 </p>
 
