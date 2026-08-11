@@ -14,7 +14,6 @@
 ![Java](https://skillicons.dev/icons?i=java)
 ![Kotlin](https://skillicons.dev/icons?i=kotlin)
 ![Python](https://skillicons.dev/icons?i=python)
-![C#](https://skillicons.dev/icons?i=cs)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
