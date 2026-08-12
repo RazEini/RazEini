@@ -11,23 +11,19 @@
 
 **Languages**  
 
-![Java](https://skillicons.dev/icons?i=java)
-![Kotlin](https://skillicons.dev/icons?i=kotlin)
-![Python](https://skillicons.dev/icons?i=python)
-![Bash](https://skillicons.dev/icons?i=bash)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,bash,html,css,js" alt="Languages" />
+  </a>
+</p>
 
 **Frameworks & Tools**  
 
-![Android](https://skillicons.dev/icons?i=androidstudio)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Flask](https://skillicons.dev/icons?i=flask)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,firebase,flask,linux,docker,git,github" alt="Tools" />
+  </a>
+</p>
 
 ---
 
@@ -62,7 +58,7 @@
 
 <p align="left">
   <a href="https://github.com/RazEini/Password_Manager">
-    <br><br>
+    <br>
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -72,14 +68,14 @@
 ### 🕵️ [NetGuard – Full-Stack NIDS & Observability Engine](https://github.com/RazEini/python_sniffer) 
 > **Real-time Network Intrusion Detection System & Security Observability Stack**
 
-* **Motivation:** Building an enterprise-grade NIDS to perform real-time L2-L7 network monitoring, deep packet inspection (DPI), and dynamic threat mitigation.
+* **Motivation:** Building an enterprise-grade NIDS to perform real-time L2-L7 network monitoring, deep packet inspection (DPI), active defense, and dynamic threat mitigation.
 * **The Challenge:** Handling high-throughput network traffic without memory leaks or packet loss using a multi-threaded Producer-Consumer pipeline, along with seamless observability integration.
-* **Key Learning:** Deep mastery of **OSI/TCP-IP stacks**, real-time anomaly detection (DoS/Port Scans), thread-safety (`threading.Lock`), custom in-memory cleanup threads, and infrastructure-as-code (**Dashboard-as-Code**).
-* **Tech Stack:** Python, Scapy, Multithreading, Docker Compose, Grafana, Loki, Promtail, JSON Structured Logging.
+* **Key Learning:** Deep mastery of **OSI/TCP-IP stacks**, real-time anomaly detection (DoS/Port Scans), thread-safety (`threading.Lock`), custom background garbage collection, and **Dashboards-as-Code**.
+* **Tech Stack:** Python, Scapy, Multithreading, Docker Compose, Grafana, Loki, Promtail, JSON Structured Logging, IaC.
 
 <p align="left">
   <a href="https://github.com/RazEini/python_sniffer">
-    <br><br>
+    <br>
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -96,7 +92,7 @@
 
 <p align="left">
   <a href="https://github.com/RazEini/e_commerce_shop">
-    <br><br>
+    <br>
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -109,11 +105,11 @@
 * **Motivation:** Most task managers are just "to-do lists" that eventually become cluttered. I built a tool that actively helps with decision-making—telling me *what* to do next based on priority and urgency.
 * **The Challenge:** Designing an automated prioritization logic that feels intuitive and doesn't overwhelm the user.
 * **Key Learning:** Deep dive into **Jetpack Compose** and **MVVM** architecture. Managed complex UI states while keeping business logic clean and decoupled.
-* **Tech Stack:** Kotlin, Firebase.
+* **Tech Stack:** Kotlin, Firebase, Jetpack Compose.
 
 <p align="left">
   <a href="https://github.com/RazEini/Smart_Task_Flow">
-    <br><br>
+    <br>
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -130,7 +126,7 @@
 
 <p align="left">
   <a href="https://github.com/RazEini/SmartFileOrganizer">
-    <br><br>
+    <br>
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -147,7 +143,7 @@
 
 <p align="left">
   <a href="https://github.com/RazEini/smart_chat_bot">
-    <br><br>
+    <br>
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
 </p>
