@@ -34,13 +34,13 @@
 ## 💻 Core Engineering Concepts
 
 * **Cybersecurity & Cryptography:** 
-  Modern Symmetric Encryption (AES-128/256-GCM), Key Derivation Functions (PBKDF2-HMAC-SHA256), Password Hashing & Salting, Vault Architecture, Security-First Workflows, Dynamic Threat Mitigation.
+  Modern Symmetric Encryption (Fernet / AES-128-CBC & HMAC-SHA256), Key Derivation Functions (PBKDF2-HMAC-SHA256), Password Hashing & Salting, Vault Architecture, Security-First Workflows, Dynamic Threat Mitigation.
 
 * **Networking & Security Observability:** 
   OSI Model & TCP/IP Stack (L2–L7), Deep Packet Inspection (DPI), Raw Sockets, Traffic Analysis, Real-Time Intrusion Detection (DoS/Port Scans), Infrastructure-as-Code (Grafana, Loki, Promtail, Structured JSON Logging).
 
 * **Backend Systems, Concurrency & State Management:** 
-  Multi-threaded Architectures (Producer-Consumer Pipelines), Thread Synchronization (`threading.Lock`), Thread-Safe Memory Optimization (Garbage Collector Threads), Event-Driven File Monitoring (`watchdog`), State Persistence.
+  Multi-threaded Architectures (Producer-Consumer Pipelines), Thread Synchronization (`threading.Lock`), Custom In-Memory Cleanup Routines, Event-Driven File Monitoring (`watchdog`), State Persistence.
 
 * **DevOps, Shell Scripting & Infrastructure Automation:** 
   Automated Infrastructure Deployment & Shell Scripting (`Bash`), Containerization & Orchestration (Docker, Docker Network, Multi-Volume Persistence), Automated CI/CD Pipelines (GitHub Actions), Backup & Recovery Workflows (`mysqldump`, Volume Management), Unit Testing (`pytest`).
@@ -50,16 +50,15 @@
 
 ---
 
-
 ## 🚀 Featured Projects
 
 ### 🔐 [Password Manager](https://github.com/RazEini/Password_Manager) 
 > **Secure vault implementation using industry-standard encryption protocols**
 
 * **Motivation:** Moving away from third-party managers to build a personal "vault" and fully understand encryption "under the hood."
-* **The Challenge:** Correctly implementing **AES-128-GCM** encryption and **PBKDF2** key derivation while maintaining a clean, modular architecture.
+* **The Challenge:** Correctly implementing **Fernet symmetric encryption** (AES-128-CBC & HMAC-SHA256) and **PBKDF2** key derivation while maintaining a clean, modular architecture.
 * **Key Learning:** Masterclass in **Cybersecurity fundamentals**: Salting, Hashing, Key Derivation Functions (KDF), and secure local storage. Developed a "security-first" mindset and CI/CD automation.
-* **Tech Stack:** Python, Cryptography (Fernet / AES-128-GCM), PBKDF2-HMAC-SHA256, Pytest, GitHub Actions (CI/CD).
+* **Tech Stack:** Python, Cryptography (Fernet: AES-128-CBC + HMAC-SHA256), PBKDF2-HMAC-SHA256, Pytest, GitHub Actions (CI/CD).
 
 <p align="left">
   <a href="https://github.com/RazEini/Password_Manager">
@@ -75,7 +74,7 @@
 
 * **Motivation:** Building an enterprise-grade NIDS to perform real-time L2-L7 network monitoring, deep packet inspection (DPI), and dynamic threat mitigation.
 * **The Challenge:** Handling high-throughput network traffic without memory leaks or packet loss using a multi-threaded Producer-Consumer pipeline, along with seamless observability integration.
-* **Key Learning:** Deep mastery of **OSI/TCP-IP stacks**, real-time anomaly detection (DoS/Port Scans), thread-safety (`threading.Lock`), garbage collection, and infrastructure-as-code (**Dashboard-as-Code**).
+* **Key Learning:** Deep mastery of **OSI/TCP-IP stacks**, real-time anomaly detection (DoS/Port Scans), thread-safety (`threading.Lock`), custom in-memory cleanup threads, and infrastructure-as-code (**Dashboard-as-Code**).
 * **Tech Stack:** Python, Scapy, Multithreading, Docker Compose, Grafana, Loki, Promtail, JSON Structured Logging.
 
 <p align="left">
@@ -180,14 +179,14 @@
   </picture>
 </div>
 
-
 ---
-
 
 ## 📫 Contact
 
->🤝 Let's Connect! > Whether it's about a project or a potential opportunity, I'm just a message away.
-<br><br>
+> 🤝 Let's Connect! Whether it's about a project or a potential opportunity, I'm just a message away.
+
+<br>
+
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github)](https://github.com/RazEini)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raz-eini-9875a8394)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razeini972@gmail.com)
