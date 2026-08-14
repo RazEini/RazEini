@@ -66,6 +66,8 @@
   </a>
 </p>
 
+---
+
 ### 🔐 [Password Manager](https://github.com/RazEini/Password_Manager) 
 > **Secure vault implementation using industry-standard encryption protocols**
 
