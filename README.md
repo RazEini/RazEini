@@ -29,6 +29,9 @@
 
 ## 💻 Core Engineering Concepts
 
+* **Low-Level Analysis & Reverse Engineering:** 
+  x86_64 Architecture, CPU Registers (`rax`, `rbp`, `rsp`), Stack Frame Layouts, Memory Inspection (`gdb`), Disassembly Analysis, Memory Endianness, and Binary Exploitation Fundamentals.
+
 * **Cybersecurity & Cryptography:** 
   Modern Symmetric Encryption (Fernet / AES-128-CBC & HMAC-SHA256), Key Derivation Functions (PBKDF2-HMAC-SHA256), Password Hashing & Salting, Vault Architecture, Security-First Workflows, Dynamic Threat Mitigation.
 
@@ -47,6 +50,21 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 🚩 [picoCTF Writeups & Low-Level Labs](https://github.com/RazEini/picoCTF-Writeups) 
+> **Hands-on binary analysis, dynamic memory inspection, and reverse engineering**
+
+* **Motivation:** Mastering low-level systems execution, assembly language, and debugging workflows from the ground up to prepare for advanced security analysis.
+* **The Challenge:** Analyzing compiled ELF binaries, tracking stack/register states in GDB, and dynamically reconstructing memory without source code.
+* **Key Learning:** Advanced GDB debugging, x86_64 calling conventions, stack inspection (`x/s`), memory endianness, and control flow analysis.
+* **Tech Stack:** C / Assembly (x86_64), GDB, Linux (WSL2 / Ubuntu), GCC.
+
+<p align="left">
+  <a href="https://github.com/RazEini/picoCTF-Writeups">
+    <br>
+    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ### 🔐 [Password Manager](https://github.com/RazEini/Password_Manager) 
 > **Secure vault implementation using industry-standard encryption protocols**
