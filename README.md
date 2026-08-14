@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,python,bash,html,css,js" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=c,java,kotlin,python,bash,html,css,js" alt="Languages" />
   </a>
 </p>
 
@@ -146,23 +146,6 @@
 
 <p align="left">
   <a href="https://github.com/RazEini/SmartFileOrganizer">
-    <br>
-    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-### 💬 [SmartChat – Hebrew Chatbot](https://github.com/RazEini/smart_chat_bot) 
-> **Full-stack AI integration with focus on RTL support & session management**
-
-* **Motivation:** Creating a solution that combines AI power with a clean, responsive web interface, specifically optimized for Hebrew.
-* **The Challenge:** Bridging the gap between a **Python/Flask** backend and a responsive frontend while managing session history efficiently.
-* **Key Learning:** Sharpened **Full-stack** skills. Learned how to handle API security and how to structure a Flask app to be modular and scalable.
-* **Tech Stack:** Python, Flask, HTML/CSS/JS.
-
-<p align="left">
-  <a href="https://github.com/RazEini/smart_chat_bot">
     <br>
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
