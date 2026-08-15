@@ -121,7 +121,7 @@
 
 * **Motivation:** Solving the "cluttered folders" problem by building a robust system that automates file categorization and monitoring in the background.
 * **The Challenge:** Implementing a reliable Undo/Redo system based on operation history, safely coordinating background threads with the Tkinter main loop, and managing real-time file system events without data loss or race conditions.
-* **Key Learning:** Gained deep experience in event-driven programming using the Watchdog library, modern GUI development with ttkbootstrap, and thread-safe UI architecture — building a central queue that lets background threads (sorting, undo/redo, live file monitoring) safely update the interface without touching Tkinter directly.
+* **Key Learning:** Gained deep experience in event-driven programming using the Watchdog library, modern GUI development with ttkbootstrap, and thread-safe UI architecture - building a central queue that lets background threads (sorting, undo/redo, live file monitoring) safely update the interface without touching Tkinter directly.
 * **Tech Stack:** Python, Tkinter, Watchdog, ttkbootstrap.
 
 <p align="left">
