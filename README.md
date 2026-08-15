@@ -102,7 +102,7 @@
 ### 🧠 [Smart Task Flow](https://github.com/RazEini/Smart_Task_Flow) 
 > **Automated prioritization logic & modern Android UI with Jetpack Compose**
 
-* **Motivation:** Most task managers are just "to-do lists" that eventually become cluttered. I built a tool that actively helps with decision-making—telling me *what* to do next based on priority and urgency.
+* **Motivation:** Most task managers are just "to-do lists" that eventually become cluttered. I built a tool that actively helps with decision-making-telling me *what* to do next based on priority and urgency.
 * **The Challenge:** Designing an automated prioritization logic that feels intuitive and doesn't overwhelm the user.
 * **Key Learning:** Deep dive into **Jetpack Compose** and **MVVM** architecture. Managed complex UI states while keeping business logic clean and decoupled.
 * **Tech Stack:** Kotlin, Firebase, Jetpack Compose.
