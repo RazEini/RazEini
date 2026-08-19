@@ -44,9 +44,29 @@
 * **Software Architecture & Full-Stack Engineering:** 
   OOP Principles (Polymorphism, Encapsulation), Custom Exception Flow, Clean Architecture & MVVM, Modern Mobile Stack (Android, Jetpack Compose, StateFlow), Web APIs & RESTful Services (Flask).
 
+* **Binary Exploitation, Reverse Engineering & Vulnerability Research:**
+  Hands-on analysis of Linux binaries, Buffer Overflows, Control Flow Hijacking, Shellcoding, Memory Corruption, Dynamic Debugging (`GDB` + `GEF`), Disassembly (`Ghidra`, `objdump`), and Exploit Automation using `pwntools` and Python.
+
 ---
 
 ## 🚀 Featured Projects
+
+### 🚩 [CTF Writeups & Binary Exploitation](https://github.com/RazEini/ctf-writeups) 
+> **Personal security research repository containing binary exploitation exploits, writeups, and reverse engineering analysis**
+
+* **Motivation:** Deepening practical skills in low-level vulnerabilities, memory safety, binary analysis, and reverse engineering techniques.
+* **The Challenge:** Analyzing unknown compiled ELF binaries, identifying memory corruption flaws (e.g., Buffer Overflows, format string bugs), and crafting reliable exploits to redirect execution flow.
+* **Key Learning:** Advanced dynamic analysis with **GDB + GEF**, static analysis using **Ghidra**, shellcode execution, and automating exploit scripts via **pwntools**.
+* **Tech Stack & Tools:** C, Python, Pwntools, GDB (GEF), Ghidra, Linux (WSL2/Ubuntu), Bash.
+
+<p align="left">
+  <a href="https://github.com/RazEini/ctf-writeups">
+    <br>
+    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
 
 ### 🕵️ [NetGuard – Full-Stack NIDS & Observability Engine](https://github.com/RazEini/python_sniffer) 
 > **Real-time Network Intrusion Detection System & Security Observability Stack**
