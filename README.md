@@ -86,16 +86,19 @@
 ---
 
 ### 🔐 [Password Manager](https://github.com/RazEini/Password_Manager) 
-> **Secure vault implementation using industry-standard encryption protocols**
+> **Secure, modular CLI/TUI password manager published on PyPI with automated CI/CD**
 
-* **Motivation:** Moving away from third-party managers to build a personal "vault" and fully understand encryption "under the hood."
-* **The Challenge:** Correctly implementing **Fernet symmetric encryption** (AES-128-CBC & HMAC-SHA256) and **PBKDF2** key derivation while maintaining a clean, modular architecture.
-* **Key Learning:** Masterclass in **Cybersecurity fundamentals**: Salting, Hashing, Key Derivation Functions (KDF), and secure local storage. Developed a "security-first" mindset and CI/CD automation.
-* **Tech Stack:** Python, Cryptography (Fernet: AES-128-CBC + HMAC-SHA256), PBKDF2-HMAC-SHA256, Pytest, GitHub Actions (CI/CD).
+* **Motivation:** Moving away from third-party managers to build a production-ready personal vault, implement secure cryptography from scratch, and master end-to-end software packaging.
+* **The Challenge:** Correctly implementing **Fernet symmetric encryption** (AES-128-CBC & HMAC-SHA256), **PBKDF2** key derivation, an interactive arrow-key TUI (`questionary`/`rich`), and a fully automated PyPI release pipeline via GitHub Actions.
+* **Key Learning:** Masterclass in **Cybersecurity fundamentals**, software modularity, robust exception flows, and end-to-end DevOps automation from local testing to global package distribution.
+* **Tech Stack:** Python, Cryptography, Pyperclip, Rich, Questionary, Pytest, GitHub Actions (CI/CD), PyPI.
 
 <p align="left">
+  <a href="https://pypi.org/project/razeini-password-manager/">
+    <img src="https://img.shields.io/pypi/v/razeini-password-manager.svg?style=for-the-badge&logo=pypi&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://github.com/RazEini/Password_Manager">
-    <br>
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
 </p>
