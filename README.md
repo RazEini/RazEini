@@ -95,11 +95,11 @@
 
 <p align="left">
   <a href="https://pypi.org/project/razeini-password-manager/">
-    <img src="https://img.shields.io/pypi/v/razeini-password-manager.svg?style=for-the-badge&logo=pypi&logoColor=white" />
+    <img src="https://img.shields.io/pypi/v/razeini-password-manager.svg?style=for-the-badge&logo=pypi&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/RazEini/Password_Manager">
-    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
