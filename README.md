@@ -93,15 +93,7 @@
 * **Key Learning:** Masterclass in **Cybersecurity fundamentals**, software modularity, robust exception flows, and end-to-end DevOps automation from local testing to global package distribution.
 * **Tech Stack:** Python, Cryptography, Pyperclip, Rich, Questionary, Pytest, GitHub Actions (CI/CD), PyPI.
 
-<p align="left">
-  <a href="https://pypi.org/project/razeini-password-manager/">
-    <img src="https://img.shields.io/pypi/v/razeini-password-manager.svg?style=for-the-badge&logo=pypi&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/RazEini/Password_Manager">
-    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<p align="left"><a href="https://pypi.org/project/razeini-password-manager/"><img src="https://img.shields.io/pypi/v/razeini-password-manager.svg?style=for-the-badge&logo=pypi&logoColor=white"/></a> &nbsp; <a href="https://github.com/RazEini/Password_Manager"><img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github"/></a></p>
 
 ---
 
