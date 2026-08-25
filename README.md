@@ -68,13 +68,13 @@
 
 ---
 
-### 🕵️ [NetGuard – Full-Stack NIDS & Observability Engine](https://github.com/RazEini/python_sniffer) 
-> **Real-time Network Intrusion Detection System & Security Observability Stack**
+### 🕵️ [NetGuard – Hybrid Python/C NIDS & Observability Engine](https://github.com/RazEini/python_sniffer) 
+> **High-Performance Network Intrusion Detection System with Native C DPI Acceleration & Observability Stack**
 
-* **Motivation:** Building an enterprise-grade NIDS to perform real-time L2-L7 network monitoring, deep packet inspection (DPI), active defense, and dynamic threat mitigation.
-* **The Challenge:** Handling high-throughput network traffic without memory leaks or packet loss using a multi-threaded Producer-Consumer pipeline, along with seamless observability integration.
-* **Key Learning:** Deep mastery of **OSI/TCP-IP stacks**, real-time anomaly detection (DoS/Port Scans), thread-safety (`threading.Lock`), custom background garbage collection, and **Dashboards-as-Code**.
-* **Tech Stack:** Python, Scapy, Multithreading, Docker Compose, Grafana, Loki, Promtail, JSON Structured Logging, IaC.
+* **Motivation:** Building an enterprise-grade NIDS to perform real-time L2-L7 network monitoring, multi-pattern payload scanning, active defense, and dynamic threat mitigation.
+* **The Challenge:** Overcoming Python's FFI overhead and GIL bottlenecks during deep packet inspection (DPI) under heavy traffic without memory leaks or packet loss.
+* **Key Learning:** Implemented a **Native C DPI Engine (Batch-Optimized via ctypes)** achieving a **42x throughput speedup (62M+ pkts/sec)** over pure Python. Mastered Producer-Consumer queues, thread safety (`threading.Lock`), background GC routines, and **Dashboards-as-Code**.
+* **Tech Stack:** Python, Native C Extension (GCC/ctypes), Scapy, Multithreading, Docker Compose, Grafana, Loki, Promtail, JSON Structured Logging, IaC.
 
 <p align="left">
   <a href="https://github.com/RazEini/python_sniffer">
