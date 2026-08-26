@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,firebase,flask,cmake,grafana,linux,ubuntu,docker,git,githubactions,github" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,firebase,flask,cmake,grafana,linux,docker,git,githubactions,github" alt="Tools" />
   </a>
 </p>
 
