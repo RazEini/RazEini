@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,firebase,flask,grafana,linux,ubuntu,docker,git,githubactions,github" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,firebase,flask,cmake,grafana,linux,ubuntu,docker,git,githubactions,github" alt="Tools" />
   </a>
 </p>
 
@@ -72,8 +72,8 @@
 > **High-Performance Network Intrusion Detection System with Native C DPI Acceleration & Observability Stack**
 
 * **Motivation:** Building an enterprise-grade NIDS to perform real-time L2-L7 network monitoring, multi-pattern payload scanning, active defense, and dynamic threat mitigation.
-* **The Challenge:** Overcoming Python's FFI overhead and GIL bottlenecks during deep packet inspection (DPI) under heavy traffic without memory leaks or packet loss.
-* **Key Learning:** Implemented a **Native C DPI Engine (Batch-Optimized via ctypes)** achieving a **42x throughput speedup (62M+ pkts/sec)** over pure Python. Mastered Producer-Consumer queues, thread safety (`threading.Lock`), background GC routines, and **Dashboards-as-Code**.
+* **The Challenge:** Overcoming Python's FFI overhead and GIL bottlenecks during deep packet inspection (DPI) under heavy traffic while ensuring **Memory Safety** and preventing buffer over-reads on raw binary traffic.
+* **Key Learning:** Implemented a **Native C DPI Engine (Batch-Optimized via ctypes)** using bounds-checked memory operations (`memchr`/`memcmp`), achieving an **8x throughput speedup (~2.5M pkts/sec)** with zero crash risk on invalid network frames. Mastered Producer-Consumer queues, thread safety (`threading.Lock`), background GC routines, and **Dashboards-as-Code**.
 * **Tech Stack:** Python, Native C Extension (GCC/ctypes), Scapy, Multithreading, Docker Compose, Grafana, Loki, Promtail, JSON Structured Logging, IaC.
 
 <p align="left">
