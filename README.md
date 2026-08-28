@@ -27,25 +27,22 @@
 
 ---
 
-## 💻 Core Engineering Concepts
+## 💻 Core Technical Competencies
 
-* **Cybersecurity & Cryptography:** 
-  Modern Symmetric Encryption (Fernet / AES-128-CBC & HMAC-SHA256), Key Derivation Functions (PBKDF2-HMAC-SHA256), Password Hashing & Salting, Vault Architecture, Security-First Workflows, Dynamic Threat Mitigation.
+* **Low-Level, Binary Exploitation & Reverse Engineering:**
+  Linux ELF Binaries, Memory Safety & Corruption (Buffer Overflows), Dynamic Debugging (`GDB` + `GEF`), Disassembly (`Ghidra`), Exploit Automation (`pwntools`, C, Python).
 
-* **Networking & Security Observability:** 
-  OSI Model & TCP/IP Stack (L2–L7), Deep Packet Inspection (DPI), Raw Sockets, Traffic Analysis, Real-Time Intrusion Detection (DoS/Port Scans), Infrastructure-as-Code (Grafana, Loki, Promtail, Structured JSON Logging).
+* **Networking & Security Observability:**
+  OSI & TCP/IP (L2–L7), Deep Packet Inspection (DPI), Raw Sockets, Traffic Analysis & Intrusion Detection (DoS/Port Scans), Infrastructure-as-Code (`Grafana`, `Loki`, `Promtail`).
 
-* **Backend Systems, Concurrency & State Management:** 
-  Multi-threaded Architectures (Producer-Consumer Pipelines), Thread Synchronization (`threading.Lock`), Custom In-Memory Cleanup Routines, Event-Driven File Monitoring (`watchdog`), State Persistence.
+* **Cryptography & Vault Architecture:**
+  Symmetric Encryption (AES-128-CBC / Fernet, HMAC-SHA256), Key Derivation (PBKDF2), Dynamic Threat Mitigation, Password Hashing & Salting.
 
-* **DevOps, Shell Scripting & Infrastructure Automation:** 
-  Automated Infrastructure Deployment & Shell Scripting (`Bash`), Containerization & Orchestration (Docker, Docker Network, Multi-Volume Persistence), Automated CI/CD Pipelines (GitHub Actions), Backup & Recovery Workflows (`mysqldump`, Volume Management), Unit Testing (`pytest`).
+* **Backend Systems & Concurrency:**
+  Multi-threaded Architecture (Producer-Consumer Pipelines), Thread Synchronization (`threading.Lock`), C-FFI / Native Extensions (`ctypes`), Event-Driven Architecture (`watchdog`).
 
-* **Software Architecture & Full-Stack Engineering:** 
-  OOP Principles (Polymorphism, Encapsulation), Custom Exception Flow, Clean Architecture & MVVM, Modern Mobile Stack (Android, Jetpack Compose, StateFlow), Web APIs & RESTful Services (Flask).
-
-* **Binary Exploitation, Reverse Engineering & Vulnerability Research:**
-  Hands-on analysis of Linux binaries, Buffer Overflows, Control Flow Hijacking, Shellcoding, Memory Corruption, Dynamic Debugging (`GDB` + `GEF`), Disassembly (`Ghidra`, `objdump`), and Exploit Automation using `pwntools` and Python.
+* **DevOps & Infrastructure:**
+  CI/CD (`GitHub Actions`), Containerization (`Docker`), Infrastructure Automation & Scripting (`Bash`), PyPI Packaging, Automated Testing (`pytest`).
 
 ---
 
