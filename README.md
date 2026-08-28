@@ -103,9 +103,9 @@
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=github_dark&hide=javascript%2Cjs%2Chtml%2Ccss&cache_bust=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=default&hide=javascript%2Cjs%2Chtml%2Ccss&cache_bust=2">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=default&hide=javascript%2Cjs%2Chtml%2Ccss&cache_bust=2&hide_border=true" width="32%" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=github_dark&hide=java%2Cjavascript%2Cjs%2Chtml%2Ccss&cache_bust=4">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=default&hide=java%2Cjavascript%2Cjs%2Chtml%2Ccss&cache_bust=4">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RazEini&layout=compact&theme=default&hide=java%2Cjavascript%2Cjs%2Chtml%2Ccss&cache_bust=4&hide_border=true" width="32%" alt="Top Languages" />
   </picture>
 </p>
 
