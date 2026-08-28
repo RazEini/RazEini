@@ -48,6 +48,21 @@
 
 ## 🚀 Featured Projects
 
+### 🕵️ [NetGuard – Hybrid Python/C NIDS & Observability Engine](https://github.com/RazEini/NetGuard) 
+> **High-Performance Network Intrusion Detection System with Dual-Layer DPI & Observability Stack**
+* **Motivation:** Building an enterprise-grade NIDS to perform real-time L3-L7 network monitoring, multi-pattern payload scanning, active defense, and dynamic threat mitigation.
+* **The Challenge:** Overcoming Python's FFI overhead and GIL bottlenecks during deep packet inspection (DPI) under heavy traffic while ensuring **Memory Safety** and preventing buffer over-reads on raw binary traffic — including diagnosing and fixing a false-positive signature match against encrypted traffic during live testing.
+* **Key Learning:** Implemented a dual-layer live DPI pipeline — an Aho-Corasick automaton for keyword signatures alongside a **Native C DPI Engine (ctypes)** using bounds-checked memory operations (`memchr`/`memcmp`) for injection-pattern signatures, measured at an **8x throughput speedup in isolated benchmarking (~2.5M pkts/sec)** with zero crash risk on invalid network frames. Mastered Producer-Consumer queues, thread safety (`threading.Lock`), background GC routines, and **Dashboards-as-Code**.
+* **Tech Stack:** Python, Native C Extension (GCC/ctypes), Scapy, Multithreading, Docker Compose, Grafana, Loki, Promtail, JSON Structured Logging, IaC.
+<p align="left">
+  <a href="https://github.com/RazEini/NetGuard">
+    <br>
+    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
 ### 🚩 [CTF Writeups & Binary Exploitation](https://github.com/RazEini/ctf-writeups) 
 > **Personal security research repository containing binary exploitation exploits, writeups, and reverse engineering analysis**
 
@@ -65,21 +80,6 @@
 
 ---
 
-### 🕵️ [NetGuard – Hybrid Python/C NIDS & Observability Engine](https://github.com/RazEini/NetGuard) 
-> **High-Performance Network Intrusion Detection System with Dual-Layer DPI & Observability Stack**
-* **Motivation:** Building an enterprise-grade NIDS to perform real-time L3-L7 network monitoring, multi-pattern payload scanning, active defense, and dynamic threat mitigation.
-* **The Challenge:** Overcoming Python's FFI overhead and GIL bottlenecks during deep packet inspection (DPI) under heavy traffic while ensuring **Memory Safety** and preventing buffer over-reads on raw binary traffic — including diagnosing and fixing a false-positive signature match against encrypted traffic during live testing.
-* **Key Learning:** Implemented a dual-layer live DPI pipeline — an Aho-Corasick automaton for keyword signatures alongside a **Native C DPI Engine (ctypes)** using bounds-checked memory operations (`memchr`/`memcmp`) for injection-pattern signatures, measured at an **8x throughput speedup in isolated benchmarking (~2.5M pkts/sec)** with zero crash risk on invalid network frames. Mastered Producer-Consumer queues, thread safety (`threading.Lock`), background GC routines, and **Dashboards-as-Code**.
-* **Tech Stack:** Python, Native C Extension (GCC/ctypes), Scapy, Multithreading, Docker Compose, Grafana, Loki, Promtail, JSON Structured Logging, IaC.
-<p align="left">
-  <a href="https://github.com/RazEini/NetGuard">
-    <br>
-    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
 ### 🔐 [Password Manager](https://github.com/RazEini/Password_Manager) 
 > **Secure, modular CLI/TUI password manager published on PyPI with automated CI/CD**
 
@@ -89,57 +89,6 @@
 * **Tech Stack:** Python, Cryptography, Pyperclip, Rich, Questionary, Pytest, GitHub Actions (CI/CD), PyPI.
 
 <p align="left"><a href="https://pypi.org/project/razeini-password-manager/"><img src="https://img.shields.io/pypi/v/razeini-password-manager.svg?style=for-the-badge&logo=pypi&logoColor=white"/></a> &nbsp; <a href="https://github.com/RazEini/Password_Manager"><img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github"/></a></p>
-
----
-
-### 📂 [Smart File Organizer](https://github.com/RazEini/SmartFileOrganizer) 
-> **Intelligent desktop automation tool for efficient file system management**
-
-* **Motivation:** Solving the "cluttered folders" problem by building a robust system that automates file categorization and monitoring in the background.
-* **The Challenge:** Implementing a reliable Undo/Redo system based on operation history, safely coordinating background threads with the Tkinter main loop, and managing real-time file system events without data loss or race conditions.
-* **Key Learning:** Gained deep experience in event-driven programming using the Watchdog library, modern GUI development with ttkbootstrap, and thread-safe UI architecture — building a central queue that lets background threads (sorting, undo/redo, live file monitoring) safely update the interface without touching Tkinter directly.
-* **Tech Stack:** Python, Tkinter, Watchdog, ttkbootstrap.
-
-<p align="left">
-  <a href="https://github.com/RazEini/SmartFileOrganizer">
-    <br>
-    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-### 🧠 [Smart Task Flow](https://github.com/RazEini/Smart_Task_Flow) 
-> **Automated prioritization logic & modern Android UI with Jetpack Compose**
-
-* **Motivation:** Most task managers are just "to-do lists" that eventually become cluttered. I built a tool that actively helps with decision-making—telling me *what* to do next based on priority and urgency.
-* **The Challenge:** Designing an automated prioritization logic that feels intuitive and doesn't overwhelm the user.
-* **Key Learning:** Deep dive into **Jetpack Compose** and **MVVM** architecture. Managed complex UI states while keeping business logic clean and decoupled.
-* **Tech Stack:** Kotlin, Firebase, Jetpack Compose.
-
-<p align="left">
-  <a href="https://github.com/RazEini/Smart_Task_Flow">
-    <br>
-    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-### 🛒 [E-Commerce Shop](https://github.com/RazEini/e_commerce_shop) 
-> **Real-time data synchronization & complex state management**
-
-* **Motivation:** Understanding how large-scale consumer apps maintain data consistency between thousands of users and an admin dashboard.
-* **The Challenge:** Implementing a real-time shopping cart that syncs across multiple devices and handles instant inventory updates during checkout.
-* **Key Learning:** Mastered **Firebase Realtime Database** and user authentication. Designed an Admin Panel that simplifies complex management tasks.
-* **Tech Stack:** Android (Java), Firebase.
-
-<p align="left">
-  <a href="https://github.com/RazEini/e_commerce_shop">
-    <br>
-    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
 ---
 
