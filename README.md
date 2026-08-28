@@ -68,16 +68,14 @@
 
 ---
 
-### 🕵️ [NetGuard – Hybrid Python/C NIDS & Observability Engine](https://github.com/RazEini/python_sniffer) 
-> **High-Performance Network Intrusion Detection System with Native C DPI Acceleration & Observability Stack**
-
-* **Motivation:** Building an enterprise-grade NIDS to perform real-time L2-L7 network monitoring, multi-pattern payload scanning, active defense, and dynamic threat mitigation.
-* **The Challenge:** Overcoming Python's FFI overhead and GIL bottlenecks during deep packet inspection (DPI) under heavy traffic while ensuring **Memory Safety** and preventing buffer over-reads on raw binary traffic.
-* **Key Learning:** Implemented a **Native C DPI Engine (Batch-Optimized via ctypes)** using bounds-checked memory operations (`memchr`/`memcmp`), achieving an **8x throughput speedup (~2.5M pkts/sec)** with zero crash risk on invalid network frames. Mastered Producer-Consumer queues, thread safety (`threading.Lock`), background GC routines, and **Dashboards-as-Code**.
+### 🕵️ [NetGuard – Hybrid Python/C NIDS & Observability Engine](https://github.com/RazEini/NetGuard) 
+> **High-Performance Network Intrusion Detection System with Dual-Layer DPI & Observability Stack**
+* **Motivation:** Building an enterprise-grade NIDS to perform real-time L3-L7 network monitoring, multi-pattern payload scanning, active defense, and dynamic threat mitigation.
+* **The Challenge:** Overcoming Python's FFI overhead and GIL bottlenecks during deep packet inspection (DPI) under heavy traffic while ensuring **Memory Safety** and preventing buffer over-reads on raw binary traffic — including diagnosing and fixing a false-positive signature match against encrypted traffic during live testing.
+* **Key Learning:** Implemented a dual-layer live DPI pipeline — an Aho-Corasick automaton for keyword signatures alongside a **Native C DPI Engine (ctypes)** using bounds-checked memory operations (`memchr`/`memcmp`) for injection-pattern signatures, measured at an **8x throughput speedup in isolated benchmarking (~2.5M pkts/sec)** with zero crash risk on invalid network frames. Mastered Producer-Consumer queues, thread safety (`threading.Lock`), background GC routines, and **Dashboards-as-Code**.
 * **Tech Stack:** Python, Native C Extension (GCC/ctypes), Scapy, Multithreading, Docker Compose, Grafana, Loki, Promtail, JSON Structured Logging, IaC.
-
 <p align="left">
-  <a href="https://github.com/RazEini/python_sniffer">
+  <a href="https://github.com/RazEini/NetGuard">
     <br>
     <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github" />
   </a>
