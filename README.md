@@ -39,7 +39,7 @@
   Symmetric Encryption (AES-128-CBC / Fernet, HMAC-SHA256), Key Derivation (PBKDF2), Dynamic Threat Mitigation, Password Hashing & Salting.
 
 * **Backend Systems & Concurrency:**
-  Multi-threaded Architecture (Producer-Consumer Pipelines), Thread Synchronization (`threading.Lock`), C-FFI / Native Extensions (`ctypes`), Event-Driven Architecture (`watchdog`).
+  Multi-threaded Architecture (Producer-Consumer Pipelines), Thread Synchronization (`threading.Lock`), C-FFI / Native Extensions (`ctypes`).
 
 * **DevOps & Infrastructure:**
   CI/CD (`GitHub Actions`), Containerization (`Docker`), Infrastructure Automation & Scripting (`Bash`), PyPI Packaging, Automated Testing (`pytest`).
