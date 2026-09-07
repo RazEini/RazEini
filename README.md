@@ -1,6 +1,8 @@
 # Hi, I'm Raz Eini 👋  
 ### Software Engineering Student | Security & Backend Focus
 
+[![committers.top badge](https://user-badge.committers.top/israel/RazEini.svg)](https://committers.top/israel/RazEini)
+
 🎓 B.Sc. Software Engineering student at **Afeka College** (Academic Reserve – Atuda) <br><br>
 💡 I build clean, practical, and maintainable software for real-world problems <br><br>
 🔍 Continuously learning new technologies and hands-on software development
