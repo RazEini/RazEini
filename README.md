@@ -51,11 +51,11 @@
 ## 🚀 Featured Projects
 
 ### 🕵️ [WireWarden – Hybrid Python/C NIDS & Observability Engine](https://github.com/RazEini/WireWarden) 
-> **High-Performance Network Intrusion Detection System with Dual-Layer DPI & Observability Stack**
-* **Motivation:** Building an enterprise-grade NIDS to perform real-time L3-L7 network monitoring, multi-pattern payload scanning, active defense, and dynamic threat mitigation.
-* **The Challenge:** Overcoming Python's FFI overhead and GIL bottlenecks during deep packet inspection (DPI) under heavy traffic while ensuring **Memory Safety** and preventing buffer over-reads on raw binary traffic — including diagnosing and fixing a false-positive signature match against encrypted traffic during live testing.
-* **Key Learning:** Implemented a dual-layer live DPI pipeline — an Aho-Corasick automaton for keyword signatures alongside a **Native C DPI Engine (ctypes)** using bounds-checked memory operations (`memchr`/`memcmp`) for injection-pattern signatures, measured at an **8x throughput speedup in isolated benchmarking (~2.5M pkts/sec)** with zero crash risk on invalid network frames. Mastered Producer-Consumer queues, thread safety (`threading.Lock`), background GC routines, and **Dashboards-as-Code**.
-* **Tech Stack:** Python, Native C Extension (GCC/ctypes), Scapy, Multithreading, Docker Compose, Grafana, Loki, Promtail, JSON Structured Logging, IaC.
+> **Real-Time Network Intrusion Detection & Prevention with Dual-Layer DPI & a Code-Managed Observability Stack**
+* **Motivation:** Building a real-time NIDS/NIPS to monitor L3-L7 traffic, detect attacks, and respond through the OS firewall, while learning how network defense tools work internally.
+* **The Challenge:** Scanning raw binary traffic quickly and safely: Python is slow per packet, the C engine must never read past a buffer (**Memory Safety**), and the system must avoid false positives (SYN-ACK replies, outbound traffic, encrypted payloads) and never block innocent hosts — including diagnosing and fixing a false-positive signature match against encrypted traffic during live testing.
+* **Key Learning:** Implemented a dual-layer live DPI pipeline — an Aho-Corasick automaton for cleartext credentials alongside a **Native C DPI Engine (ctypes)** with 14 case-insensitive injection signatures and explicit bounds checks, measured at about **5x per call (live path) and 20x in batch** versus pure Python (~1M and ~4M pkts/sec). Audited my own code and fixed 8 defects, each pinned by a regression test; **46 pytest tests**, C engine fuzzed under **ASan/UBSan**, GitHub Actions CI. Applied producer-consumer queues, thread safety (`threading.Lock`), time-limited firewall blocks, and **Dashboards-as-Code**.
+* **Tech Stack:** Python, C (GCC/ctypes), Scapy, pytest, GitHub Actions, Multithreading, Docker Compose, Grafana, Loki, Promtail, JSON Structured Logging, IaC.
 <p align="left">
   <a href="https://github.com/RazEini/WireWarden">
     <br>
