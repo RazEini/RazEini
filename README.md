@@ -4,8 +4,8 @@
 [![committers.top badge](https://user-badge.committers.top/israel/RazEini.svg)](https://committers.top/israel/RazEini)
 
 🎓 B.Sc. Software Engineering student at **Afeka College** (Academic Reserve – Atuda) <br><br>
-💡 I build clean, practical, and maintainable software for real-world problems <br><br>
-🔍 Continuously learning new technologies and hands-on software development
+🔐 Focused on network security, binary exploitation and systems programming <br><br>
+💡 I build clean, practical, and maintainable software, and I test and benchmark what I build
 
 ---
 
@@ -32,19 +32,19 @@
 ## 💻 Core Technical Competencies
 
 * **Low-Level, Binary Exploitation & Reverse Engineering:**
-  Linux ELF Binaries, Memory Safety & Corruption (Buffer Overflows), Dynamic Debugging (`GDB` + `GEF`), Disassembly (`Ghidra`), Exploit Automation (`pwntools`, C, Python).
+  Linux ELF Binaries (32/64-bit), Memory Safety & Corruption (Buffer Overflows), Dynamic Debugging (`GDB` + `GEF`), Mitigation Analysis (`checksec`: Canary, NX, PIE), Disassembly (`Ghidra`), Exploit Automation (`pwntools`, C, Python).
 
 * **Networking & Security Observability:**
-  OSI & TCP/IP (L2–L7), Deep Packet Inspection (DPI), Raw Sockets, Traffic Analysis & Intrusion Detection (DoS/Port Scans), Infrastructure-as-Code (`Grafana`, `Loki`, `Promtail`).
+  OSI & TCP/IP (L2–L7), Deep Packet Inspection (DPI), Raw Sockets (`Scapy`), Traffic Analysis & Intrusion Detection (DoS, Port & Stealth Scans, DNS Tunneling), Active Defense (time-limited firewall blocks), Infrastructure-as-Code (`Grafana`, `Loki`, `Promtail`).
 
 * **Cryptography & Vault Architecture:**
-  Symmetric Encryption (AES-128-CBC / Fernet, HMAC-SHA256), Key Derivation (PBKDF2), Dynamic Threat Mitigation, Password Hashing & Salting.
+  Symmetric Encryption (AES-128-CBC / Fernet, HMAC-SHA256), Key Derivation (PBKDF2), Salting, Secure Vault Design.
 
 * **Backend Systems & Concurrency:**
-  Multi-threaded Architecture (Producer-Consumer Pipelines), Thread Synchronization (`threading.Lock`), C-FFI / Native Extensions (`ctypes`).
+  Multi-threaded Architecture (Producer-Consumer Pipelines), Thread Synchronization (`threading.Lock`), C-FFI / Native Libraries (`ctypes`).
 
-* **DevOps & Infrastructure:**
-  CI/CD (`GitHub Actions`), Containerization (`Docker`), Infrastructure Automation & Scripting (`Bash`), PyPI Packaging, Automated Testing (`pytest`).
+* **DevOps, Testing & Infrastructure:**
+  CI/CD (`GitHub Actions`), Containerization (`Docker`), Automated Testing (`pytest`), Memory-Safety Fuzzing (`ASan` / `UBSan`), Infrastructure Automation & Scripting (`Bash`), PyPI Packaging.
 
 ---
 
@@ -66,12 +66,13 @@
 ---
 
 ### 🚩 [CTF Writeups & Binary Exploitation](https://github.com/RazEini/ctf-writeups) 
-> **Personal security research repository containing binary exploitation exploits, writeups, and reverse engineering analysis**
+> **Personal security research repository with picoCTF binary-exploitation writeups, working exploit scripts, and mitigation analysis**
 
-* **Motivation:** Deepening practical skills in low-level vulnerabilities, memory safety, binary analysis, and reverse engineering techniques.
-* **The Challenge:** Analyzing unknown compiled ELF binaries, identifying memory corruption flaws (e.g., Buffer Overflows, format string bugs), and crafting reliable exploits to redirect execution flow.
-* **Key Learning:** Advanced dynamic analysis with **GDB + GEF**, static analysis using **Ghidra**, shellcode execution, and automating exploit scripts via **pwntools**.
-* **Tech Stack & Tools:** C, Python, Pwntools, GDB (GEF), Ghidra, Linux (WSL2/Ubuntu), Bash.
+* **Motivation:** Deepening practical skills in low-level vulnerabilities, memory safety, and binary analysis, one documented challenge at a time.
+* **The Challenge:** Analyzing compiled ELF binaries, identifying memory-corruption flaws (stack buffer overflows, function-pointer misuse, unchecked `gets()` / `strcpy()`), and crafting exploits that redirect execution flow or change program logic.
+* **Key Learning:** Four solved challenges covering return-address overwrite on a 32-bit binary (offsets found with De Bruijn patterns in **GDB + GEF**), function-pointer redirection through symbol lookup, and targeted stack-variable overwrite. Read `checksec` output to see which mitigations (Canary, NX, PIE) actually matter, and automated every exploit with **pwntools** against local and remote targets.
+* **Status:** Ongoing. Next platform: ROP Emporium.
+* **Tech Stack & Tools:** C, Python, pwntools, GDB (GEF), checksec, Linux (WSL2/Ubuntu), Bash.
 
 <p align="left">
   <a href="https://github.com/RazEini/ctf-writeups">
@@ -83,11 +84,11 @@
 ---
 
 ### 🔐 [Password Manager](https://github.com/RazEini/Password_Manager) 
-> **Secure, modular CLI/TUI password manager published on PyPI with automated CI/CD**
+> **Secure, modular CLI/TUI password manager published on PyPI with automated testing and releases**
 
-* **Motivation:** Moving away from third-party managers to build a production-ready personal vault, implement secure cryptography from scratch, and master end-to-end software packaging.
-* **The Challenge:** Correctly implementing **Fernet symmetric encryption** (AES-128-CBC & HMAC-SHA256), **PBKDF2** key derivation, an interactive arrow-key TUI (`questionary`/`rich`), and a fully automated PyPI release pipeline via GitHub Actions.
-* **Key Learning:** Masterclass in **Cybersecurity fundamentals**, software modularity, robust exception flows, and end-to-end DevOps automation from local testing to global package distribution.
+* **Motivation:** Moving away from third-party managers to build a personal vault on vetted cryptographic primitives, and to learn end-to-end Python packaging and release automation.
+* **The Challenge:** Correctly using **Fernet authenticated encryption** (AES-128-CBC & HMAC-SHA256) and **PBKDF2** key derivation with a per-vault salt, so the master password is never stored; plus an interactive arrow-key TUI (`questionary`/`rich`) and a PyPI release pipeline driven by GitHub Actions.
+* **Key Learning:** Separating the cryptographic core from the CLI/TUI, covering that core with `pytest` (CI runs on Python 3.10–3.13), and automating PyPI publishing on tagged releases, from local testing to a package anyone can install with `pip`.
 * **Tech Stack:** Python, Cryptography, Pyperclip, Rich, Questionary, Pytest, GitHub Actions (CI/CD), PyPI.
 
 <p align="left"><a href="https://pypi.org/project/razeini-password-manager/"><img src="https://img.shields.io/pypi/v/razeini-password-manager.svg?style=for-the-badge&logo=pypi&logoColor=white"/></a> &nbsp; <a href="https://github.com/RazEini/Password_Manager"><img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github"/></a></p>
@@ -128,6 +129,6 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github)](https://github.com/RazEini)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raz-eini-9875a8394)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raz-eini)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razeini972@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-PDF-2EA44F?style=for-the-badge&logoColor=white)](https://github.com/RazEini/RazEini/raw/main/Raz_Eini_Resume.pdf)
