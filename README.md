@@ -87,11 +87,19 @@
 > **Secure, modular CLI/TUI password manager published on PyPI with automated testing and releases**
 
 * **Motivation:** Moving away from third-party managers to build a personal vault on vetted cryptographic primitives, and to learn end-to-end Python packaging and release automation.
-* **The Challenge:** Correctly using **Fernet authenticated encryption** (AES-128-CBC & HMAC-SHA256) and **PBKDF2** key derivation with a per-vault salt, so the master password is never stored; plus an interactive arrow-key TUI (`questionary`/`rich`) and a PyPI release pipeline driven by GitHub Actions.
-* **Key Learning:** Separating the cryptographic core from the CLI/TUI, covering that core with `pytest` (CI runs on Python 3.10–3.13), and automating PyPI publishing on tagged releases, from local testing to a package anyone can install with `pip`.
-* **Tech Stack:** Python, Cryptography, Pyperclip, Rich, Questionary, Pytest, GitHub Actions (CI/CD), PyPI.
+* **The Challenge:** Correctly using **Fernet authenticated encryption** (AES-128-CBC & HMAC-SHA256) and **PBKDF2** key derivation (600,000 iterations, per OWASP guidance) with a per-vault salt, so the master password is never stored; plus storage that survives crashes and an interactive arrow-key TUI (`questionary`/`rich`).
+* **Key Learning:** Auditing my own security tool and fixing what I found: atomic vault writes, owner-only file permissions, a self-clearing clipboard and an upgrade path for older vaults. Separated the cryptographic core from the CLI/TUI, covered it with **54 `pytest` tests (76% coverage)** running in CI on Python 3.10–3.13, and publish releases through **PyPI Trusted Publishing** (OIDC, signed attestations, approval-gated environment).
+* **Tech Stack:** Python, Cryptography, Pyperclip, Rich, Questionary, Pytest, GitHub Actions (CI/CD, Trusted Publishing), PyPI.
 
-<p align="left"><a href="https://pypi.org/project/razeini-password-manager/"><img src="https://img.shields.io/pypi/v/razeini-password-manager.svg?style=for-the-badge&logo=pypi&logoColor=white"/></a> &nbsp; <a href="https://github.com/RazEini/Password_Manager"><img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github"/></a></p>
+<p align="left">
+  <a href="https://pypi.org/project/razeini-password-manager/">
+    <img src="https://img.shields.io/pypi/v/razeini-password-manager.svg?style=for-the-badge&logo=pypi&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/RazEini/Password_Manager">
+    <img src="https://img.shields.io/badge/View_Code-GitHub-24292e?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
