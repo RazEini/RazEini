@@ -35,7 +35,7 @@
 ## 💻 Core Technical Competencies
 
 * **Low-Level, Binary Exploitation & Reverse Engineering:**
-  Linux ELF Binaries (32/64-bit), Memory Safety & Corruption (Buffer Overflows), Dynamic Debugging (`GDB` + `GEF`), Mitigation Analysis (`checksec`: Canary, NX, PIE), Disassembly (`Ghidra`), Exploit Automation (`pwntools`, C, Python).
+  Linux ELF Binaries (32/64-bit), Memory Safety & Corruption (Buffer Overflows), Dynamic Debugging (`GDB` + `GEF`), Mitigation Analysis (`checksec`: Canary, NX, PIE), Static Analysis (`Ghidra`), Exploit Automation (`pwntools`, C, Python).
 
 * **Networking & Security Observability:**
   OSI & TCP/IP (L2–L7), Deep Packet Inspection (DPI), Raw Sockets (`Scapy`), Traffic Analysis & Intrusion Detection (DoS, Port & Stealth Scans, DNS Tunneling), Active Defense (time-limited firewall blocks), Infrastructure-as-Code (`Grafana`, `Loki`, `Promtail`).
@@ -73,9 +73,9 @@
 
 * **Motivation:** Deepening practical skills in low-level vulnerabilities, memory safety, and binary analysis, one documented challenge at a time.
 * **The Challenge:** Analyzing compiled ELF binaries, identifying memory-corruption flaws (stack buffer overflows, function-pointer misuse, unchecked `gets()` / `strcpy()`), and crafting exploits that redirect execution flow or change program logic.
-* **Key Learning:** Four solved challenges covering return-address overwrite on a 32-bit binary (offsets found with De Bruijn patterns in **GDB + GEF**), function-pointer redirection through symbol lookup, and targeted stack-variable overwrite. Read `checksec` output to see which mitigations (Canary, NX, PIE) actually matter, and automated every exploit with **pwntools** against local and remote targets.
+* **Key Learning:** Four solved challenges covering return-address overwrite on a 32-bit binary (offsets found with De Bruijn patterns in **GDB + GEF**), function-pointer redirection through symbol lookup, and targeted stack-variable overwrite. Read the decompiled code in **Ghidra** to understand each binary, did the exploit development itself in **GDB + GEF**, read `checksec` output to see which mitigations (Canary, NX, PIE) actually matter, and automated every exploit with **pwntools** against local and remote targets.
 * **Status:** Ongoing. Next platform: ROP Emporium.
-* **Tech Stack & Tools:** C, Python, pwntools, GDB (GEF), checksec, Linux (WSL2/Ubuntu), Bash.
+* **Tech Stack & Tools:** C, Python, pwntools, GDB (GEF), Ghidra, checksec, Linux (WSL2/Ubuntu), Bash.
 
 <p align="left">
   <a href="https://github.com/RazEini/ctf-writeups">
